@@ -576,6 +576,140 @@
     "updated": "2026-10-05"
   },
   {
+    "id": "ascend-elements",
+    "company": "Ascend Elements",
+    "filed": "2026-04-09",
+    "court": "S.D. Tex.",
+    "case_no": "",
+    "type": "Sale process",
+    "debt": "About $103.5 million of long-term debt, plus more than $145 ",
+    "status": "The assets were sold in three separate 363 sales (Poland and IP, the Hopkinsville plant, the Covington plant) and the court has since approv",
+    "summary": "Ascend Elements, a Massachusetts-based lithium-ion battery recycler, ran out of cash after cost overruns and a contractor dispute stalled its half-built Kentucky plant, the unfunded part of a federal DOE grant was cancelled, and battery material prices stayed weak. It filed with no restructuring support agreement and no committed DIP loan, then ran a Jefferies-led sale process. A Kinterra Capital vehicle that also provided the DIP loan bought the Polish entities and intellectual property with a noteholder credit bid, the Turner-Kokosing contractor joint venture bought the Kentucky plant partly with its lien claim, and R3 Lithium bought the Georgia plant for $3 million in cash.",
+    "lesson": "Almost every buyer here paid with debt rather than cash: noteholders credit bid their notes and the unpaid contractor credit bid its mechanics lien to take the plant it built. That is why unsecured creditors are projected to recover close to nothing even though the company had raised about $900 million of equity.",
+    "parties": [
+      {
+        "name": "Ascend Elements, Inc. and Ascend Elements US, LLC",
+        "note": "Debtors; battery recycler selling substantially all assets",
+        "side": "Debtor",
+        "counsel": [
+          "Norton Rose Fulbright US LLP"
+        ],
+        "bank": [
+          "Jefferies LLC"
+        ],
+        "fa": [
+          "Alvarez & Marsal North America, LLC"
+        ]
+      },
+      {
+        "name": "Certain CLN Holders",
+        "note": "Holders of the secured convertible notes; senior secured holders with consultation and consent rights in the sale, and part of the credit bi",
+        "side": "Creditor",
+        "counsel": [
+          "Weil, Gotshal & Manges LLP"
+        ],
+        "bank": [],
+        "fa": [
+          "Uzzi & Lall"
+        ]
+      },
+      {
+        "name": "Fifth Wall",
+        "note": "Senior secured holder alongside the Certain CLN Holders",
+        "side": "Creditor",
+        "counsel": [
+          "Goodwin Procter LLP"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Kinterra Capital Corp. / Bluegrass Infrastructure Partners Holdings, LLC",
+        "note": "DIP lender, stalking horse bidder and buyer of the Polish entities and intellectual property through a joint bid with noteholders",
+        "side": "Other",
+        "counsel": [
+          "Porter Hedges LLP"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Official Committee of Unsecured Creditors",
+        "note": "Official committee; had consultation rights but no consent rights in the sale process",
+        "side": "Committee",
+        "counsel": [
+          "McDermott Will & Schulte LLP"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Turner-Kokosing Joint Venture",
+        "note": "General contractor and mechanics lienholder on the Hopkinsville, Kentucky plant; bought the plant at auction with a partial credit bid",
+        "side": "Creditor",
+        "counsel": [
+          "Clifford Chance US LLP",
+          "Winston & Strawn LLP"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "R3 Lithium, Inc.",
+        "note": "Buyer of the Covington, Georgia assets for $3 million in cash",
+        "side": "Other",
+        "counsel": [],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Covington Industrial LLC",
+        "note": "Landlord of the Covington, Georgia facility",
+        "side": "Other",
+        "counsel": [
+          "Greenberg Traurig, LLP"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Verita docket: master service list (Dkt. 404) naming counsel for Kinterra, Turne",
+        "url": "https://www.veritaglobal.net/ascend/document/2690440260526000000000005"
+      },
+      {
+        "label": "Verita docket: debtor notice naming Norton Rose Fulbright as debtors' counsel",
+        "url": "https://veritaglobal.net/ascend/document/2690440260417000000000009"
+      },
+      {
+        "label": "Bondoro bidding procedures and sale order summary (debtor advisors, Weil, Uzzi &",
+        "url": "https://app.bondoro.com/preview/cases/Ascend_Elements_Inc/apa-summary"
+      },
+      {
+        "label": "Bondoro filing alert (filing date, court, debtor advisors, case background)",
+        "url": "https://app.bondoro.com/preview/cases/Ascend_Elements_Inc"
+      },
+      {
+        "label": "Law360: committee proposes McDermott Will & Schulte as counsel",
+        "url": "https://www.law360.com/bankruptcy-authority/articles/2476087"
+      },
+      {
+        "label": "Law360: liquidation plan approved over US Trustee objection",
+        "url": "https://www.law360.com/bankruptcy-authority/mid-cap/articles/2514321"
+      },
+      {
+        "label": "Atlanta Journal-Constitution: filing and $103.5 million long-term debt",
+        "url": "https://ajc.com/business/2026/04/battery-recycler-with-plant-east-of-atlanta-files-for-bankruptcy"
+      },
+      {
+        "label": "Backfire News: Turner-Kokosing purchase of the Hopkinsville plant and projected ",
+        "url": "https://backfirenews.com/builders-said-a-kentucky-battery-plants-owner-owed"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
     "id": "nine-energy-service",
     "company": "Nine Energy Service",
     "filed": "2026-02-01",
