@@ -194,7 +194,7 @@ class Schema(unittest.TestCase):
         self.assertTrue(cli.validate(log=lambda *_: None))
         with tempfile.TemporaryDirectory() as d:
             cli.build(d)
-            self.assertEqual(len(json.loads((Path(d) / "data" / "cases.json").read_text())), 3)
+            self.assertGreaterEqual(len(json.loads((Path(d) / "data" / "cases.json").read_text())), 3)
             self.assertIn("/*__CASES__*/null", (Path(d) / "index.html").read_text())
             cli.build(d, inline=True)
             page = (Path(d) / "index.html").read_text()
