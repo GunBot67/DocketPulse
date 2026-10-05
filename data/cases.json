@@ -1,54 +1,1038 @@
 [
   {
-    "id": "brightline", "company": "Brightline", "filed": "2026-09-24", "court": "D.N.J.", "case_no": "",
-    "type": "Prearranged", "debt": "About $5.5 billion", "status": "Pending. Interim financing approved.",
+    "id": "brightline",
+    "company": "Brightline",
+    "filed": "2026-09-24",
+    "court": "D.N.J.",
+    "case_no": "26-20876",
+    "type": "Prearranged",
+    "debt": "About $5.5 billion",
+    "status": "Pending. Interim financing approved.",
     "summary": "Florida's private Miami to Orlando passenger railroad put 17 non-operating parent entities into Chapter 11. The operating company stayed out of court. A restructuring support agreement with bond insurer Assured Guaranty and a group of mutual fund bondholders brings $490 million of new long-term capital, and two more bondholder groups signed on at the first day hearing.",
     "lesson": "The $258 million financing is borrowed by the operating company, which is not in bankruptcy, and a term lender objected to it. Five separate creditor constituencies makes this a good case for learning how groups form around different layers of a capital structure.",
     "parties": [
-      {"name": "Brightline", "note": "Debtor", "side": "Debtor", "counsel": ["Skadden", "Cole Schotz"], "bank": ["Perella Weinberg Partners", "Houlihan Lokey"], "fa": ["Alvarez & Marsal"]},
-      {"name": "Assured Guaranty", "note": "Bond insurer, RSA party and DIP lender", "side": "Creditor", "counsel": ["Milbank"], "bank": ["Lazard"], "fa": []},
-      {"name": "Ad hoc mutual fund group", "note": "RSA party and DIP lender", "side": "Creditor", "counsel": ["Herbert Smith Freehills Kramer"], "bank": ["GLC Advisors"], "fa": []},
-      {"name": "Ad hoc group of East noteholders", "note": "Joined the RSA after filing", "side": "Creditor", "counsel": ["Davis Polk"], "bank": [], "fa": []},
-      {"name": "Ad hoc group of OpCo bondholders", "note": "Joined the RSA after filing", "side": "Creditor", "counsel": ["Cleary Gottlieb"], "bank": [], "fa": []},
-      {"name": "CK Opportunities", "note": "Term lender, objected to the financing", "side": "Creditor", "counsel": ["Brown Rudnick", "Clark Smith Villazor"], "bank": [], "fa": []}
+      {
+        "name": "Brightline",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Skadden",
+          "Cole Schotz"
+        ],
+        "bank": [
+          "Perella Weinberg Partners",
+          "Houlihan Lokey"
+        ],
+        "fa": [
+          "Alvarez & Marsal"
+        ]
+      },
+      {
+        "name": "Assured Guaranty",
+        "note": "Bond insurer, RSA party and DIP lender",
+        "side": "Creditor",
+        "counsel": [
+          "Milbank"
+        ],
+        "bank": [
+          "Lazard"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc mutual fund group",
+        "note": "RSA party and DIP lender",
+        "side": "Creditor",
+        "counsel": [
+          "Herbert Smith Freehills Kramer"
+        ],
+        "bank": [
+          "GLC Advisors"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc group of East noteholders",
+        "note": "Joined the RSA after filing",
+        "side": "Creditor",
+        "counsel": [
+          "Davis Polk"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc group of OpCo bondholders",
+        "note": "Joined the RSA after filing",
+        "side": "Creditor",
+        "counsel": [
+          "Cleary Gottlieb"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "CK Opportunities",
+        "note": "Term lender, objected to the financing",
+        "side": "Creditor",
+        "counsel": [
+          "Brown Rudnick",
+          "Clark Smith Villazor"
+        ],
+        "bank": [],
+        "fa": []
+      }
     ],
     "sources": [
-      {"label": "Company press release", "url": "https://www.gobrightline.com/press-room/2026/brightline-florida-reaches-agreement-on-financial-restructuring"},
-      {"label": "Bond Buyer, first day hearing", "url": "https://www.bondbuyer.com/news/brightline-bankruptcy-day-one-court-approves-dip-over-objection"}
+      {
+        "label": "Company press release",
+        "url": "https://www.gobrightline.com/press-room/2026/brightline-florida-reaches-agreement-on-financial-restructuring"
+      },
+      {
+        "label": "Bond Buyer, first day hearing",
+        "url": "https://www.bondbuyer.com/news/brightline-bankruptcy-day-one-court-approves-dip-over-objection"
+      }
     ],
     "updated": "2026-10-04"
   },
   {
-    "id": "multi-color-corporation", "company": "Multi-Color Corporation", "filed": "2026-01-29", "court": "D.N.J.", "case_no": "",
-    "type": "Prepackaged", "debt": "Net debt cut by about $3.8 billion", "status": "Emerged.",
+    "id": "airbaltic",
+    "company": "airBaltic",
+    "filed": "2026-09-14",
+    "court": "S.D.N.Y.",
+    "case_no": "",
+    "type": "Free fall",
+    "debt": "About $584 million of funded debt plus about $993 million of",
+    "status": "Pending. Company expects to finish around June 2027.",
+    "summary": "Latvia's national airline filed in New York after a jet fuel price spike hit a carrier that was about 90% unhedged. It arrived with a 350 million euro financing from a group led by Strategic Value Partners, chosen over a competing offer from its own bondholders, who then objected.",
+    "lesson": "A foreign company using US Chapter 11 because its creditors and aircraft lessors are spread across many countries. Also a live example of a fight over who gets to provide the DIP loan.",
+    "parties": [
+      {
+        "name": "airBaltic",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Milbank",
+          "COBALT"
+        ],
+        "bank": [
+          "Seabury"
+        ],
+        "fa": []
+      },
+      {
+        "name": "DIP lenders",
+        "note": "Strategic Value Partners, Barclays, Hayfin, Morgan Stanley, Oaktree",
+        "side": "Creditor",
+        "counsel": [],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc group of 2029 bondholders",
+        "note": "Objected to the DIP financing",
+        "side": "Creditor",
+        "counsel": [],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release",
+        "url": "https://runwaygirlnetwork.com/2026/09/airbaltic-initiates-chapter-11-financial-reorganisation/"
+      },
+      {
+        "label": "Filing summary",
+        "url": "https://bondoro.com/air-baltic-filing-alert/"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
+    "id": "vi-jon",
+    "company": "Vi-Jon",
+    "filed": "2026-08-02",
+    "court": "D. Del.",
+    "case_no": "26-11216",
+    "type": "Prearranged",
+    "debt": "About $720 million of projected talc claims; no funded debt",
+    "status": "Pending. Plan filed September 2026.",
+    "summary": "A private-label maker of body powder and Epsom salts filed to settle all current and future talc injury claims at once. Under a deal with lawyers for more than 80% of claimants, its parent funds a trust and the claims are channeled there.",
+    "lesson": "A mass tort case, not a debt case. The creditors are injury claimants, so the other side of the table is plaintiffs' lawyers, their own advisors, and a court-appointed representative for people who have not yet become ill.",
+    "parties": [
+      {
+        "name": "Vi-Jon",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Sidley Austin",
+          "Morris James"
+        ],
+        "bank": [
+          "Houlihan Lokey"
+        ],
+        "fa": [
+          "Berkeley Research Group"
+        ]
+      },
+      {
+        "name": "Ad hoc plaintiffs' group",
+        "note": "RSA party",
+        "side": "Creditor",
+        "counsel": [
+          "Caplin & Drysdale"
+        ],
+        "bank": [],
+        "fa": [
+          "Province"
+        ]
+      },
+      {
+        "name": "Future claimants' representative",
+        "note": "",
+        "side": "Other",
+        "counsel": [
+          "Willkie Farr & Gallagher"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Emprise",
+        "note": "Parent company, funds the trust",
+        "side": "Sponsor",
+        "counsel": [
+          "Bryan Cave Leighton Paisner"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release",
+        "url": "https://www.vijon.com/news/"
+      },
+      {
+        "label": "Case summary",
+        "url": "https://bondoro.com/vijon/"
+      },
+      {
+        "label": "Case write-up",
+        "url": "https://chapter11cases.com/blogs/news/vi-jon-llc-a-section-524g-restructuring-in-delaware"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
+    "id": "hughes",
+    "company": "Hughes Satellite Systems (EchoStar)",
+    "filed": "2026-08-02",
+    "court": "S.D. Tex.",
+    "case_no": "",
+    "type": "Free fall",
+    "debt": "About $1.5 billion of maturing notes",
+    "status": "Pending. Contested with noteholders.",
+    "summary": "EchoStar's satellite internet unit filed without a deal after forbearance talks with its noteholders failed ahead of a debt maturity. It plans to shrink toward enterprise, government and defense customers. A noteholder group holding about 80% of the notes opposed the company's first requests and says value was moved to EchoStar before the filing.",
+    "lesson": "Compare this with DISH DBS a month earlier: same parent, same company-side advisors, but one case was agreed in advance and this one is a fight. No investment bank was named for the company at filing.",
+    "parties": [
+      {
+        "name": "Hughes Satellite Systems",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "White & Case"
+        ],
+        "bank": [],
+        "fa": [
+          "FTI Consulting"
+        ]
+      },
+      {
+        "name": "Special committee",
+        "note": "Independent directors",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc group of noteholders",
+        "note": "Opposing first day relief",
+        "side": "Creditor",
+        "counsel": [
+          "Jones Day"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": []
+      },
+      {
+        "name": "U.S. Bank",
+        "note": "Unsecured notes trustee",
+        "side": "Creditor",
+        "counsel": [
+          "Seward & Kissel"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release",
+        "url": "https://ir.echostar.com/news-releases/news-release-details/hughes-files-chapter-11-voluntary-reorganization-strengthen"
+      },
+      {
+        "label": "Case summary",
+        "url": "https://bondoro.com/hughes-satellite-systems/"
+      },
+      {
+        "label": "Petition, party list",
+        "url": "https://www.petition11.com/p/hughes-chapter-11-bankruptcy-filing"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
+    "id": "republic-national-distributing-company",
+    "company": "Republic National Distributing Company",
+    "filed": "2026-07-26",
+    "court": "S.D. Tex.",
+    "case_no": "26-90737",
+    "type": "Sale process",
+    "debt": "$1 billion to $10 billion of liabilities",
+    "status": "Pending. Plan filed August 2026; remaining businesses being sold or wound down.",
+    "summary": "Once the second-largest wine and spirits distributor in the US, RNDC ran short of cash, fell behind with suppliers and could not refinance. It sold 11 markets to Reyes Holdings for more than $1 billion in May 2026, then filed to sell what was left and wind down the rest.",
+    "lesson": "A distributor's rights to carry a brand depend on paying suppliers on time, so a cash squeeze threatened the very assets backing the loans. Also watch the investigation into more than $700 million of tax distributions paid to the family owners.",
+    "parties": [
+      {
+        "name": "Republic National Distributing Company",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis",
+          "Porter Hedges"
+        ],
+        "bank": [
+          "Lazard"
+        ],
+        "fa": [
+          "AlixPartners"
+        ]
+      },
+      {
+        "name": "Official committee of unsecured creditors",
+        "note": "",
+        "side": "Committee",
+        "counsel": [
+          "McDermott Will & Schulte"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Filing summary",
+        "url": "https://bondoro.com/republic-national-distributing-company-filing-alert/"
+      },
+      {
+        "label": "Case update, committee counsel",
+        "url": "https://chapter11cases.com/blogs/news/republic-national-distributing-company-the-last-two-weeks"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
+    "id": "alkegen",
+    "company": "Alkegen",
+    "filed": "2026-07-26",
+    "court": "N.D. Tex.",
+    "case_no": "",
+    "type": "Prepackaged",
+    "debt": "About $3.5 billion of funded debt",
+    "status": "Filed expecting to finish in about 60 days. Later status not checked.",
+    "summary": "The Clearlake-owned specialty materials maker filed a prepackaged plan to wipe out about $3.1 billion of its debt by handing equity to lenders. Weak industrial demand, Chinese overcapacity and rising interest costs made the debt load unworkable. Trade creditors are to be paid in full.",
+    "lesson": "A textbook prepack: the deal was signed a week before filing with 99% of first lien and 80% of second lien holders on board, so the court process is mostly a formality.",
+    "parties": [
+      {
+        "name": "Alkegen",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis",
+          "Gray Reed"
+        ],
+        "bank": [
+          "Centerview Partners"
+        ],
+        "fa": [
+          "Alvarez & Marsal"
+        ]
+      },
+      {
+        "name": "Ad hoc group of lenders",
+        "note": "RSA party",
+        "side": "Creditor",
+        "counsel": [
+          "Davis Polk"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Clearlake Capital",
+        "note": "Sponsor",
+        "side": "Sponsor",
+        "counsel": [],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release",
+        "url": "https://www.alkegen.com/chapter-11-filing-announcement/"
+      },
+      {
+        "label": "Filing summary",
+        "url": "https://bondoro.com/alkegen-filing-alert/"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
+    "id": "dish-dbs",
+    "company": "DISH DBS (EchoStar)",
+    "filed": "2026-06-30",
+    "court": "S.D. Tex.",
+    "case_no": "26-90627",
+    "type": "Prepackaged",
+    "debt": "About $9.75 billion of funded debt",
+    "status": "Filed targeting emergence by the end of Q3 2026. Later status not checked.",
+    "summary": "EchoStar's satellite TV business and its DISH Wireless affiliates filed a prepackaged plan built on a March 2026 deal with bondholders. The deal settles years of litigation over a 2024 asset-shuffling transaction and repays debt early with proceeds from selling spectrum to AT&T. The filing came when that sale closed late and $2 billion of notes fell due.",
+    "lesson": "The parent, EchoStar, stayed out of bankruptcy and has its own counsel. This is a clean example of a liability management fight ending in a negotiated plan. Note the company used its financial advisor's banking arm instead of a separate investment bank.",
+    "parties": [
+      {
+        "name": "DISH DBS and DISH Wireless",
+        "note": "Debtors",
+        "side": "Debtor",
+        "counsel": [
+          "White & Case"
+        ],
+        "bank": [
+          "FTI Capital Advisors"
+        ],
+        "fa": [
+          "FTI Consulting"
+        ]
+      },
+      {
+        "name": "Special committee",
+        "note": "Independent directors",
+        "side": "Debtor",
+        "counsel": [
+          "Dentons"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc group of DBS debt holders",
+        "note": "RSA party",
+        "side": "Creditor",
+        "counsel": [
+          "Milbank",
+          "Howley Law"
+        ],
+        "bank": [
+          "Lazard"
+        ],
+        "fa": []
+      },
+      {
+        "name": "EchoStar",
+        "note": "Parent company, not a debtor",
+        "side": "Sponsor",
+        "counsel": [
+          "Morris Nichols"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release",
+        "url": "https://ir.echostar.com/news-releases/news-release-details/dish-dbs-corporation-and-subsidiaries-initiate-prepackaged"
+      },
+      {
+        "label": "Petition, party list",
+        "url": "https://www.petition11.com/p/the-dish-prepack-aint-prepacking"
+      },
+      {
+        "label": "Filing summary",
+        "url": "https://bondoro.com/dish-dbs-filing-alert/"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
+    "id": "trinseo",
+    "company": "Trinseo",
+    "filed": "2026-05-26",
+    "court": "S.D. Tex.",
+    "case_no": "26-90545",
+    "type": "Prepackaged",
+    "debt": "About $2.9 billion of funded debt",
+    "status": "Prepackaged plan filed. Later status not checked.",
+    "summary": "The plastics and specialty materials maker filed a prepackaged plan to cut roughly $2 billion of debt after a chemical downturn and overcapacity in Asia left it with far more debt than its earnings could carry. Lenders are set to take the equity, with a new money loan and a backstopped rights offering funding the exit.",
+    "lesson": "Count the creditor groups: three separate ad hoc groups, each with its own law firm and bank, plus the revolver agent. That is what a capital structure looks like after two rounds of liability management.",
+    "parties": [
+      {
+        "name": "Trinseo",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Latham & Watkins",
+          "Hunton Andrews Kurth"
+        ],
+        "bank": [
+          "Centerview Partners"
+        ],
+        "fa": [
+          "FTI Consulting"
+        ]
+      },
+      {
+        "name": "Ad hoc group of senior secured lenders",
+        "note": "",
+        "side": "Creditor",
+        "counsel": [
+          "Paul Hastings"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc group of term lenders",
+        "note": "",
+        "side": "Creditor",
+        "counsel": [
+          "Gibson Dunn",
+          "Howley Law"
+        ],
+        "bank": [
+          "Lazard"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc group of second lien noteholders",
+        "note": "",
+        "side": "Creditor",
+        "counsel": [
+          "Paul, Weiss"
+        ],
+        "bank": [
+          "Perella Weinberg Partners"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Deutsche Bank",
+        "note": "Revolving credit facility agent",
+        "side": "Creditor",
+        "counsel": [
+          "White & Case"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release (SEC)",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001519061/000110465926066376/tm2615591d1_ex99-1.htm"
+      },
+      {
+        "label": "Petition, party list",
+        "url": "https://www.petition11.com/p/new-chapter-11-bankruptcy-filing-300"
+      },
+      {
+        "label": "Case summary",
+        "url": "https://bondoro.com/trinseo/"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
+    "id": "nine-energy-service",
+    "company": "Nine Energy Service",
+    "filed": "2026-02-01",
+    "court": "S.D. Tex.",
+    "case_no": "26-90295",
+    "type": "Prepackaged",
+    "debt": "About $437 million of liabilities",
+    "status": "Emerged.",
+    "summary": "A Houston oilfield services company used a quick prepackaged plan to swap more than $300 million of high-interest secured notes for equity. Its existing asset-based lender funded the case and committed to a new facility on exit.",
+    "lesson": "Smaller than most cases here, but the same cast appears: a company bank, a noteholder bank, and a lender with only a law firm. Prepacks are not just for giant companies.",
+    "parties": [
+      {
+        "name": "Nine Energy Service",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis",
+          "Kane Russell Coleman Logan"
+        ],
+        "bank": [
+          "Moelis"
+        ],
+        "fa": [
+          "FTI Consulting"
+        ]
+      },
+      {
+        "name": "Senior secured noteholders",
+        "note": "RSA party",
+        "side": "Creditor",
+        "counsel": [
+          "Milbank"
+        ],
+        "bank": [
+          "Houlihan Lokey"
+        ],
+        "fa": []
+      },
+      {
+        "name": "ABL lender",
+        "note": "DIP and exit lender",
+        "side": "Creditor",
+        "counsel": [
+          "Paul Hastings"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release (SEC)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1532286/000121390026010501/ea027480301ex99-2_nine.htm"
+      }
+    ],
+    "updated": "2026-10-05",
+    "final": true
+  },
+  {
+    "id": "multi-color-corporation",
+    "company": "Multi-Color Corporation",
+    "filed": "2026-01-29",
+    "court": "D.N.J.",
+    "case_no": "",
+    "type": "Prepackaged",
+    "debt": "Net debt cut by about $3.8 billion",
+    "status": "Emerged.",
     "summary": "A prepackaged plan for the label maker owned by private equity firm CD&R. Creditors had agreed to the deal before the filing, so the case moved quickly: the plan was confirmed and the company emerged with maturities pushed out to 2033 and annual cash interest down by more than $330 million.",
     "lesson": "The sponsor has its own lawyers and banker, separate from the company's. When a private equity owner is negotiating to keep or give up its stake, it is a party at the table, not part of the debtor's team.",
     "parties": [
-      {"name": "Multi-Color Corporation", "note": "Debtor", "side": "Debtor", "counsel": ["Kirkland & Ellis", "Cole Schotz"], "bank": ["Evercore"], "fa": ["AlixPartners"]},
-      {"name": "Special committee of the LABL board", "note": "Independent directors", "side": "Debtor", "counsel": ["Quinn Emanuel"], "bank": [], "fa": []},
-      {"name": "CD&R", "note": "Sponsor", "side": "Sponsor", "counsel": ["Debevoise & Plimpton", "Latham & Watkins"], "bank": ["Moelis"], "fa": []},
-      {"name": "Ad hoc group of secured creditors", "note": "", "side": "Creditor", "counsel": ["Milbank"], "bank": ["PJT Partners"], "fa": []}
+      {
+        "name": "Multi-Color Corporation",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis",
+          "Cole Schotz"
+        ],
+        "bank": [
+          "Evercore"
+        ],
+        "fa": [
+          "AlixPartners"
+        ]
+      },
+      {
+        "name": "Special committee of the LABL board",
+        "note": "Independent directors",
+        "side": "Debtor",
+        "counsel": [
+          "Quinn Emanuel"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "CD&R",
+        "note": "Sponsor",
+        "side": "Sponsor",
+        "counsel": [
+          "Debevoise & Plimpton",
+          "Latham & Watkins"
+        ],
+        "bank": [
+          "Moelis"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Ad hoc group of secured creditors",
+        "note": "",
+        "side": "Creditor",
+        "counsel": [
+          "Milbank"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": []
+      }
     ],
     "sources": [
-      {"label": "Company press release", "url": "https://www.businesswire.com/news/home/20260204258576/en/Multi-Color-Corporation-Receives-Court-Approval-of-First-Day-Motions"}
+      {
+        "label": "Company press release",
+        "url": "https://www.businesswire.com/news/home/20260204258576/en/Multi-Color-Corporation-Receives-Court-Approval-of-First-Day-Motions"
+      }
     ],
-    "updated": "2026-10-04", "final": true
+    "updated": "2026-10-04",
+    "final": true
   },
   {
-    "id": "saks-global", "company": "Saks Global", "filed": "2026-01-14", "court": "S.D. Tex.", "case_no": "",
-    "type": "Negotiated in court", "debt": "", "status": "RSA signed April 2026. Later status not checked.",
-    "summary": "The owner of Saks Fifth Avenue, Neiman Marcus and Bergdorf Goodman filed after struggling under the debt from its $2.7 billion purchase of Neiman Marcus. In April it signed a restructuring support agreement with an ad hoc group of senior secured bondholders, who committed $500 million of exit financing.",
-    "lesson": "This one has an official committee of unsecured creditors with its own counsel, banker and financial advisor, all paid by the estate. Compare that with the prepackaged case above, where no committee was needed.",
+    "id": "pretium-packaging",
+    "company": "Pretium Packaging",
+    "filed": "2026-01-28",
+    "court": "D.N.J.",
+    "case_no": "26-10896",
+    "type": "Prepackaged",
+    "debt": "About $1.84 billion of funded debt",
+    "status": "Emerged after a 26-day case.",
+    "summary": "The Clearlake-owned maker of plastic containers used a prepackaged plan to cut more than $900 million of debt. First lien lenders took most of the equity, lenders put in more than $530 million of new loans, and Clearlake invested another $50 million to keep a stake.",
+    "lesson": "The ABL lender, the main lender group and a minority lender group each hired separate advisors. Lenders at different levels of the same company want different things.",
     "parties": [
-      {"name": "Saks Global", "note": "Debtor", "side": "Debtor", "counsel": ["Willkie Farr & Gallagher", "Haynes and Boone"], "bank": ["PJT Partners"], "fa": ["Berkeley Research Group"]},
-      {"name": "Ad hoc group of senior secured bondholders", "note": "RSA party, exit financing", "side": "Creditor", "counsel": ["Paul, Weiss"], "bank": ["Lazard"], "fa": ["FTI Consulting"]},
-      {"name": "Official committee of unsecured creditors", "note": "", "side": "Committee", "counsel": ["Morrison Foerster"], "bank": ["Houlihan Lokey"], "fa": ["AlixPartners"]}
+      {
+        "name": "Pretium Packaging",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis",
+          "Cole Schotz"
+        ],
+        "bank": [
+          "Evercore"
+        ],
+        "fa": [
+          "FTI Consulting"
+        ]
+      },
+      {
+        "name": "Ad hoc group of term loan lenders",
+        "note": "RSA party and DIP lenders",
+        "side": "Creditor",
+        "counsel": [
+          "Milbank",
+          "Chiesa Shahinian & Giantomasi"
+        ],
+        "bank": [
+          "Moelis"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Minority lender group",
+        "note": "",
+        "side": "Creditor",
+        "counsel": [
+          "Glenn Agre Bergman & Fuentes"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "First lien tranche A lenders",
+        "note": "",
+        "side": "Creditor",
+        "counsel": [
+          "Willkie Farr & Gallagher"
+        ],
+        "bank": [],
+        "fa": []
+      },
+      {
+        "name": "Wells Fargo",
+        "note": "ABL agent",
+        "side": "Creditor",
+        "counsel": [
+          "Morgan Lewis"
+        ],
+        "bank": [],
+        "fa": [
+          "Berkeley Research Group"
+        ]
+      },
+      {
+        "name": "Clearlake Capital",
+        "note": "Sponsor",
+        "side": "Sponsor",
+        "counsel": [],
+        "bank": [],
+        "fa": []
+      }
     ],
     "sources": [
-      {"label": "Company press release", "url": "https://www.prnewswire.com/news-releases/saks-global-enters-into-restructuring-support-agreement-with-its-capital-partners-302732846.html"},
-      {"label": "Committee counsel announcement", "url": "https://www.mofo.com/resources/news/260130-represent-official-committee-unsecured-creditors-saks-global"},
-      {"label": "Committee banker retention application", "url": "https://cases.stretto.com/public/x503/14494/PLEADINGS/1449403052680000000011.pdf"}
+      {
+        "label": "Company press release",
+        "url": "https://www.prnewswire.com/news-releases/pretium-packaging-initiates-comprehensive-capital-structure-optimization-transaction-to-support-continued-growth-302673345.html"
+      },
+      {
+        "label": "Case write-up",
+        "url": "https://www.transacted.io/clearlake-capitals-pretium-packaging-files-chapter-11-shedding-900m-debt"
+      }
+    ],
+    "updated": "2026-10-05",
+    "final": true
+  },
+  {
+    "id": "saks-global",
+    "company": "Saks Global",
+    "filed": "2026-01-14",
+    "court": "S.D. Tex.",
+    "case_no": "",
+    "type": "Negotiated in court",
+    "debt": "",
+    "status": "RSA signed April 2026. Later status not checked.",
+    "summary": "The owner of Saks Fifth Avenue, Neiman Marcus and Bergdorf Goodman filed after struggling under the debt from its $2.7 billion purchase of Neiman Marcus. In April it signed a restructuring support agreement with an ad hoc group of senior secured bondholders, who committed $500 million of exit financing.",
+    "lesson": "This one has an official committee of unsecured creditors with its own counsel, banker and financial advisor, all paid by the estate. Compare that with a prepackaged case such as Multi-Color, where no committee was needed.",
+    "parties": [
+      {
+        "name": "Saks Global",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Willkie Farr & Gallagher",
+          "Haynes and Boone"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": [
+          "Berkeley Research Group"
+        ]
+      },
+      {
+        "name": "Ad hoc group of senior secured bondholders",
+        "note": "RSA party, exit financing",
+        "side": "Creditor",
+        "counsel": [
+          "Paul, Weiss"
+        ],
+        "bank": [
+          "Lazard"
+        ],
+        "fa": [
+          "FTI Consulting"
+        ]
+      },
+      {
+        "name": "Official committee of unsecured creditors",
+        "note": "",
+        "side": "Committee",
+        "counsel": [
+          "Morrison Foerster"
+        ],
+        "bank": [
+          "Houlihan Lokey"
+        ],
+        "fa": [
+          "AlixPartners"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release",
+        "url": "https://www.prnewswire.com/news-releases/saks-global-enters-into-restructuring-support-agreement-with-its-capital-partners-302732846.html"
+      },
+      {
+        "label": "Committee counsel announcement",
+        "url": "https://www.mofo.com/resources/news/260130-represent-official-committee-unsecured-creditors-saks-global"
+      },
+      {
+        "label": "Committee banker retention application",
+        "url": "https://cases.stretto.com/public/x503/14494/PLEADINGS/1449403052680000000011.pdf"
+      }
     ],
     "updated": "2026-10-04"
+  },
+  {
+    "id": "first-brands-group",
+    "company": "First Brands Group",
+    "filed": "2025-09-28",
+    "court": "S.D. Tex.",
+    "case_no": "25-90399",
+    "type": "Free fall",
+    "debt": "$10 billion to $50 billion of liabilities",
+    "status": "Sale process launched January 2026. Later status not checked.",
+    "summary": "The auto parts maker behind FRAM, TRICO and Raybestos collapsed into bankruptcy when billions of dollars of off-balance-sheet financing came to light. Lenders funded a $1.1 billion emergency loan, and an investigation by the company's advisors found widespread irregularities in how its invoices had been financed. The businesses were put up for sale.",
+    "lesson": "One of the largest and messiest cases of the cycle. Note the lender group added a financial advisor (Huron) on top of its law firm and bank once the scale of the accounting problems became clear.",
+    "parties": [
+      {
+        "name": "First Brands Group",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Weil"
+        ],
+        "bank": [
+          "Lazard"
+        ],
+        "fa": [
+          "Alvarez & Marsal"
+        ]
+      },
+      {
+        "name": "Ad hoc group of lenders",
+        "note": "DIP lenders",
+        "side": "Creditor",
+        "counsel": [
+          "Gibson Dunn"
+        ],
+        "bank": [
+          "Evercore"
+        ],
+        "fa": [
+          "Huron"
+        ]
+      },
+      {
+        "name": "Official committee of unsecured creditors",
+        "note": "Appointed October 2025",
+        "side": "Committee",
+        "counsel": [],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release, filing",
+        "url": "https://thecstreet.com/client-news/first-brands-group-initiates-voluntary-u-s-chapter-11-cases-to-stabilize-financial-position-and-facilitate-value-maximizing-transaction/"
+      },
+      {
+        "label": "Company press release, sale process",
+        "url": "https://www.businesswire.com/news/home/20260107808266/en"
+      }
+    ],
+    "updated": "2026-10-05"
+  },
+  {
+    "id": "at-home",
+    "company": "At Home",
+    "filed": "2025-06-16",
+    "court": "D. Del.",
+    "case_no": "25-11120",
+    "type": "Prearranged",
+    "debt": "About $2 billion of funded debt",
+    "status": "Emerged October 2025.",
+    "summary": "The home decor chain filed after tariffs on imported goods and weak demand overwhelmed a balance sheet left over from its 2021 buyout. Lenders including Redwood, Farallon and Anchorage put in $200 million of new money and took ownership, wiping out nearly all of the debt.",
+    "lesson": "A retail case where the lenders became the owners. The company also hired a real estate consultant to deal with store leases, which is standard in retail bankruptcies.",
+    "parties": [
+      {
+        "name": "At Home",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis",
+          "Young Conaway"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": [
+          "AlixPartners"
+        ]
+      },
+      {
+        "name": "Ad hoc group of lenders",
+        "note": "RSA party, new owners",
+        "side": "Creditor",
+        "counsel": [
+          "Dechert"
+        ],
+        "bank": [
+          "Evercore"
+        ],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release, filing",
+        "url": "https://www.businesswire.com/news/home/20250615147348/en"
+      },
+      {
+        "label": "Company press release, emergence",
+        "url": "https://www.businesswire.com/news/home/20251024381862/en/"
+      }
+    ],
+    "updated": "2026-10-05",
+    "final": true
+  },
+  {
+    "id": "marelli",
+    "company": "Marelli",
+    "filed": "2025-06-11",
+    "court": "D. Del.",
+    "case_no": "",
+    "type": "Prearranged",
+    "debt": "",
+    "status": "Filed with a lender deal and $1.1 billion of financing. Later status not checked.",
+    "summary": "The global auto parts supplier filed with about 80% of its lenders signed on to a deal under which the lenders providing a $1.1 billion bankruptcy loan take ownership, subject to a 45-day window for better offers.",
+    "lesson": "The lender group hired three advisors: a law firm, a bank and a financial advisor. When lenders are about to own the company, they need someone to dig into the operations as well as the deal.",
+    "parties": [
+      {
+        "name": "Marelli",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": [
+          "Alvarez & Marsal"
+        ]
+      },
+      {
+        "name": "Ad hoc group of lenders",
+        "note": "RSA party and DIP lenders",
+        "side": "Creditor",
+        "counsel": [
+          "Akin Gump"
+        ],
+        "bank": [
+          "Houlihan Lokey"
+        ],
+        "fa": [
+          "AlixPartners"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company press release",
+        "url": "https://www.marelli.com/en/news/marelli-voluntary-us-chapter-11.html"
+      }
+    ],
+    "updated": "2026-10-05"
   }
 ]
