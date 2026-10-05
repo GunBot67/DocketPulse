@@ -93,7 +93,7 @@
         "url": "https://www.bondbuyer.com/news/brightline-bankruptcy-day-one-court-approves-dip-over-objection"
       }
     ],
-    "updated": "2026-10-04"
+    "updated": "2026-10-05"
   },
   {
     "id": "airbaltic",
@@ -132,7 +132,9 @@
         "name": "Ad hoc group of 2029 bondholders",
         "note": "Objected to the DIP financing",
         "side": "Creditor",
-        "counsel": [],
+        "counsel": [
+          "Hogan Lovells Cadwalader"
+        ],
         "bank": [],
         "fa": []
       }
@@ -145,6 +147,10 @@
       {
         "label": "Filing summary",
         "url": "https://bondoro.com/air-baltic-filing-alert/"
+      },
+      {
+        "label": "Petition, party list",
+        "url": "https://www.petition11.com/p/air-baltic-chapter-11-bankruptcy-filing-a05"
       }
     ],
     "updated": "2026-10-05"
@@ -230,10 +236,10 @@
     "company": "Hughes Satellite Systems (EchoStar)",
     "filed": "2026-08-02",
     "court": "S.D. Tex.",
-    "case_no": "",
+    "case_no": "26-90739",
     "type": "Free fall",
     "debt": "About $1.5 billion of maturing notes",
-    "status": "Pending. Contested with noteholders.",
+    "status": "Pending. Contested with noteholders; an examiner has been requested.",
     "summary": "EchoStar's satellite internet unit filed without a deal after forbearance talks with its noteholders failed ahead of a debt maturity. It plans to shrink toward enterprise, government and defense customers. A noteholder group holding about 80% of the notes opposed the company's first requests and says value was moved to EchoStar before the filing.",
     "lesson": "Compare this with DISH DBS a month earlier: same parent, same company-side advisors, but one case was agreed in advance and this one is a fight. No investment bank was named for the company at filing.",
     "parties": [
@@ -258,6 +264,19 @@
         ],
         "bank": [],
         "fa": []
+      },
+      {
+        "name": "Official committee of unsecured creditors",
+        "note": "",
+        "side": "Committee",
+        "counsel": [
+          "McDermott Will & Schulte",
+          "Paul, Weiss"
+        ],
+        "bank": [],
+        "fa": [
+          "M3 Partners"
+        ]
       },
       {
         "name": "Ad hoc group of noteholders",
@@ -294,6 +313,10 @@
       {
         "label": "Petition, party list",
         "url": "https://www.petition11.com/p/hughes-chapter-11-bankruptcy-filing"
+      },
+      {
+        "label": "Claims agent case page",
+        "url": "https://dm.epiq11.com/case/hughessatellite/info"
       }
     ],
     "updated": "2026-10-05"
@@ -306,7 +329,7 @@
     "case_no": "26-90737",
     "type": "Sale process",
     "debt": "$1 billion to $10 billion of liabilities",
-    "status": "Pending. Plan filed August 2026; remaining businesses being sold or wound down.",
+    "status": "Pending. Amended liquidating plan filed September 10, 2026.",
     "summary": "Once the second-largest wine and spirits distributor in the US, RNDC ran short of cash, fell behind with suppliers and could not refinance. It sold 11 markets to Reyes Holdings for more than $1 billion in May 2026, then filed to sell what was left and wind down the rest.",
     "lesson": "A distributor's rights to carry a brand depend on paying suppliers on time, so a cash squeeze threatened the very assets backing the loans. Also watch the investigation into more than $700 million of tax distributions paid to the family owners.",
     "parties": [
@@ -353,10 +376,10 @@
     "company": "Alkegen",
     "filed": "2026-07-26",
     "court": "N.D. Tex.",
-    "case_no": "",
+    "case_no": "26-80008",
     "type": "Prepackaged",
     "debt": "About $3.5 billion of funded debt",
-    "status": "Filed expecting to finish in about 60 days. Later status not checked.",
+    "status": "Plan confirmed September 3, 2026. Emergence expected in the fall.",
     "summary": "The Clearlake-owned specialty materials maker filed a prepackaged plan to wipe out about $3.1 billion of its debt by handing equity to lenders. Weak industrial demand, Chinese overcapacity and rising interest costs made the debt load unworkable. Trade creditors are to be paid in full.",
     "lesson": "A textbook prepack: the deal was signed a week before filing with 99% of first lien and 80% of second lien holders on board, so the court process is mostly a formality.",
     "parties": [
@@ -374,6 +397,16 @@
         "fa": [
           "Alvarez & Marsal"
         ]
+      },
+      {
+        "name": "Disinterested directors",
+        "note": "Special committees",
+        "side": "Debtor",
+        "counsel": [
+          "Katten"
+        ],
+        "bank": [],
+        "fa": []
       },
       {
         "name": "Ad hoc group of lenders",
@@ -404,6 +437,10 @@
       {
         "label": "Filing summary",
         "url": "https://bondoro.com/alkegen-filing-alert/"
+      },
+      {
+        "label": "Claims agent case page",
+        "url": "https://restructuring.ra.kroll.com/Alkegen/"
       }
     ],
     "updated": "2026-10-05"
@@ -416,9 +453,9 @@
     "case_no": "26-90627",
     "type": "Prepackaged",
     "debt": "About $9.75 billion of funded debt",
-    "status": "Filed targeting emergence by the end of Q3 2026. Later status not checked.",
+    "status": "DBS plan reported confirmed September 29, 2026. The DISH Wireless side is contested, with the committee seeking a trustee.",
     "summary": "EchoStar's satellite TV business and its DISH Wireless affiliates filed a prepackaged plan built on a March 2026 deal with bondholders. The deal settles years of litigation over a 2024 asset-shuffling transaction and repays debt early with proceeds from selling spectrum to AT&T. The filing came when that sale closed late and $2 billion of notes fell due.",
-    "lesson": "The parent, EchoStar, stayed out of bankruptcy and has its own counsel. This is a clean example of a liability management fight ending in a negotiated plan. Note the company used its financial advisor's banking arm instead of a separate investment bank.",
+    "lesson": "One case, two outcomes: the satellite TV side got its prepackaged deal done, while the wireless side turned into a fight with tower landlords and the creditors' committee. The parent, EchoStar, stayed out of bankruptcy.",
     "parties": [
       {
         "name": "DISH DBS and DISH Wireless",
@@ -445,6 +482,18 @@
         "fa": []
       },
       {
+        "name": "Official committee of unsecured creditors",
+        "note": "Seeking a trustee for the Wireless debtors",
+        "side": "Committee",
+        "counsel": [
+          "Akin Gump"
+        ],
+        "bank": [
+          "Ducera Partners"
+        ],
+        "fa": []
+      },
+      {
         "name": "Ad hoc group of DBS debt holders",
         "note": "RSA party",
         "side": "Creditor",
@@ -466,6 +515,17 @@
         ],
         "bank": [],
         "fa": []
+      },
+      {
+        "name": "American Tower",
+        "note": "Tower landlord, objecting",
+        "side": "Other",
+        "counsel": [
+          "Ropes & Gray",
+          "Hunton Andrews Kurth"
+        ],
+        "bank": [],
+        "fa": []
       }
     ],
     "sources": [
@@ -480,6 +540,10 @@
       {
         "label": "Filing summary",
         "url": "https://bondoro.com/dish-dbs-filing-alert/"
+      },
+      {
+        "label": "Case update",
+        "url": "https://chapter11cases.com/blogs/news/dish-dbs-corporation-one-case-two-trajectories"
       }
     ],
     "updated": "2026-10-05"
@@ -492,7 +556,7 @@
     "case_no": "26-90545",
     "type": "Prepackaged",
     "debt": "About $2.9 billion of funded debt",
-    "status": "Prepackaged plan filed. Later status not checked.",
+    "status": "Pending as of August 2026. Company expects to emerge before year end.",
     "summary": "The plastics and specialty materials maker filed a prepackaged plan to cut roughly $2 billion of debt after a chemical downturn and overcapacity in Asia left it with far more debt than its earnings could carry. Lenders are set to take the equity, with a new money loan and a backstopped rights offering funding the exit.",
     "lesson": "Count the creditor groups: three separate ad hoc groups, each with its own law firm and bank, plus the revolver agent. That is what a capital structure looks like after two rounds of liability management.",
     "parties": [
@@ -576,98 +640,24 @@
     "updated": "2026-10-05"
   },
   {
-    "id": "ascend-elements",
-    "company": "Ascend Elements",
-    "filed": "2026-04-09",
+    "id": "qvc-group",
+    "company": "QVC Group",
+    "filed": "2026-04-16",
     "court": "S.D. Tex.",
-    "case_no": "",
-    "type": "Sale process",
-    "debt": "About $103.5 million of long-term debt, plus more than $145 ",
-    "status": "The assets were sold in three separate 363 sales (Poland and IP, the Hopkinsville plant, the Covington plant) and the court has since approv",
-    "summary": "Ascend Elements, a Massachusetts-based lithium-ion battery recycler, ran out of cash after cost overruns and a contractor dispute stalled its half-built Kentucky plant, the unfunded part of a federal DOE grant was cancelled, and battery material prices stayed weak. It filed with no restructuring support agreement and no committed DIP loan, then ran a Jefferies-led sale process. A Kinterra Capital vehicle that also provided the DIP loan bought the Polish entities and intellectual property with a noteholder credit bid, the Turner-Kokosing contractor joint venture bought the Kentucky plant partly with its lien claim, and R3 Lithium bought the Georgia plant for $3 million in cash.",
-    "lesson": "Almost every buyer here paid with debt rather than cash: noteholders credit bid their notes and the unpaid contractor credit bid its mechanics lien to take the plant it built. That is why unsecured creditors are projected to recover close to nothing even though the company had raised about $900 million of equity.",
+    "case_no": "26-90447",
+    "type": "Prepackaged",
+    "debt": "About $6.6 billion of funded debt",
+    "status": "Reported emerged August 6, 2026.",
+    "summary": "The home shopping company behind QVC and HSN used a prepackaged plan to cut its debt from about $6.6 billion to about $1.3 billion as viewers and shoppers moved away from cable TV. Trade vendors were paid in full.",
+    "lesson": "One of the largest debt reductions of the period. The bankers and creditor-group advisors are not yet identified here, which is a good exercise: find them in the retention applications.",
     "parties": [
       {
-        "name": "Ascend Elements, Inc. and Ascend Elements US, LLC",
-        "note": "Debtors; battery recycler selling substantially all assets",
+        "name": "QVC Group",
+        "note": "Debtor",
         "side": "Debtor",
         "counsel": [
-          "Norton Rose Fulbright US LLP"
-        ],
-        "bank": [
-          "Jefferies LLC"
-        ],
-        "fa": [
-          "Alvarez & Marsal North America, LLC"
-        ]
-      },
-      {
-        "name": "Certain CLN Holders",
-        "note": "Holders of the secured convertible notes; senior secured holders with consultation and consent rights in the sale, and part of the credit bi",
-        "side": "Creditor",
-        "counsel": [
-          "Weil, Gotshal & Manges LLP"
-        ],
-        "bank": [],
-        "fa": [
-          "Uzzi & Lall"
-        ]
-      },
-      {
-        "name": "Fifth Wall",
-        "note": "Senior secured holder alongside the Certain CLN Holders",
-        "side": "Creditor",
-        "counsel": [
-          "Goodwin Procter LLP"
-        ],
-        "bank": [],
-        "fa": []
-      },
-      {
-        "name": "Kinterra Capital Corp. / Bluegrass Infrastructure Partners Holdings, LLC",
-        "note": "DIP lender, stalking horse bidder and buyer of the Polish entities and intellectual property through a joint bid with noteholders",
-        "side": "Other",
-        "counsel": [
-          "Porter Hedges LLP"
-        ],
-        "bank": [],
-        "fa": []
-      },
-      {
-        "name": "Official Committee of Unsecured Creditors",
-        "note": "Official committee; had consultation rights but no consent rights in the sale process",
-        "side": "Committee",
-        "counsel": [
-          "McDermott Will & Schulte LLP"
-        ],
-        "bank": [],
-        "fa": []
-      },
-      {
-        "name": "Turner-Kokosing Joint Venture",
-        "note": "General contractor and mechanics lienholder on the Hopkinsville, Kentucky plant; bought the plant at auction with a partial credit bid",
-        "side": "Creditor",
-        "counsel": [
-          "Clifford Chance US LLP",
-          "Winston & Strawn LLP"
-        ],
-        "bank": [],
-        "fa": []
-      },
-      {
-        "name": "R3 Lithium, Inc.",
-        "note": "Buyer of the Covington, Georgia assets for $3 million in cash",
-        "side": "Other",
-        "counsel": [],
-        "bank": [],
-        "fa": []
-      },
-      {
-        "name": "Covington Industrial LLC",
-        "note": "Landlord of the Covington, Georgia facility",
-        "side": "Other",
-        "counsel": [
-          "Greenberg Traurig, LLP"
+          "Kirkland & Ellis",
+          "Gray Reed"
         ],
         "bank": [],
         "fa": []
@@ -675,36 +665,60 @@
     ],
     "sources": [
       {
-        "label": "Verita docket: master service list (Dkt. 404) naming counsel for Kinterra, Turne",
-        "url": "https://www.veritaglobal.net/ascend/document/2690440260526000000000005"
+        "label": "Filing coverage",
+        "url": "https://ppc.land/qvc-files-for-chapter-11-with-5-3-billion-debt-cut-plan/"
       },
       {
-        "label": "Verita docket: debtor notice naming Norton Rose Fulbright as debtors' counsel",
-        "url": "https://veritaglobal.net/ascend/document/2690440260417000000000009"
+        "label": "Emergence coverage",
+        "url": "https://www.securitasglobal.com/risk-perspectives/qvc-group-exits-chapter-11-vendors-paid-in-full/"
+      }
+    ],
+    "updated": "2026-10-05",
+    "final": true
+  },
+  {
+    "id": "ascend-elements",
+    "company": "Ascend Elements",
+    "filed": "2026-04-09",
+    "court": "S.D. Tex.",
+    "case_no": "26-90440",
+    "type": "Sale process",
+    "debt": "$500 million to $1 billion of liabilities; about $104 millio",
+    "status": "Assets being sold; heading toward a liquidating plan. Later status not checked.",
+    "summary": "A battery recycling company once valued at about $1.5 billion ran out of cash after cost overruns and a contractor dispute stalled its main plant in Kentucky at 60% complete. It filed without a lender deal or committed financing and put its assets up for sale.",
+    "lesson": "A venture-backed company with little bank debt can still end up in Chapter 11. Here the pressure came from contractor liens and a half-built plant, not bondholders.",
+    "parties": [
+      {
+        "name": "Ascend Elements",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [],
+        "bank": [
+          "Jefferies"
+        ],
+        "fa": [
+          "Alvarez & Marsal"
+        ]
       },
       {
-        "label": "Bondoro bidding procedures and sale order summary (debtor advisors, Weil, Uzzi &",
-        "url": "https://app.bondoro.com/preview/cases/Ascend_Elements_Inc/apa-summary"
+        "name": "Convertible noteholders",
+        "note": "",
+        "side": "Creditor",
+        "counsel": [
+          "Weil"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Filing summary",
+        "url": "https://bondoro.com/ascend-elements-filing-alert/"
       },
       {
-        "label": "Bondoro filing alert (filing date, court, debtor advisors, case background)",
-        "url": "https://app.bondoro.com/preview/cases/Ascend_Elements_Inc"
-      },
-      {
-        "label": "Law360: committee proposes McDermott Will & Schulte as counsel",
-        "url": "https://www.law360.com/bankruptcy-authority/articles/2476087"
-      },
-      {
-        "label": "Law360: liquidation plan approved over US Trustee objection",
-        "url": "https://www.law360.com/bankruptcy-authority/mid-cap/articles/2514321"
-      },
-      {
-        "label": "Atlanta Journal-Constitution: filing and $103.5 million long-term debt",
-        "url": "https://ajc.com/business/2026/04/battery-recycler-with-plant-east-of-atlanta-files-for-bankruptcy"
-      },
-      {
-        "label": "Backfire News: Turner-Kokosing purchase of the Hopkinsville plant and projected ",
-        "url": "https://backfirenews.com/builders-said-a-kentucky-battery-plants-owner-owed"
+        "label": "Case write-up",
+        "url": "https://elevenflo.com/blog/ascend-elements-chapter-11-363-sale"
       }
     ],
     "updated": "2026-10-05"
@@ -837,7 +851,7 @@
         "url": "https://www.businesswire.com/news/home/20260204258576/en/Multi-Color-Corporation-Receives-Court-Approval-of-First-Day-Motions"
       }
     ],
-    "updated": "2026-10-04",
+    "updated": "2026-10-05",
     "final": true
   },
   {
@@ -939,10 +953,10 @@
     "company": "Saks Global",
     "filed": "2026-01-14",
     "court": "S.D. Tex.",
-    "case_no": "",
+    "case_no": "26-90103",
     "type": "Negotiated in court",
     "debt": "",
-    "status": "RSA signed April 2026. Later status not checked.",
+    "status": "Emerged June 26, 2026. Now operates as Exemplar Luxury Group.",
     "summary": "The owner of Saks Fifth Avenue, Neiman Marcus and Bergdorf Goodman filed after struggling under the debt from its $2.7 billion purchase of Neiman Marcus. In April it signed a restructuring support agreement with an ad hoc group of senior secured bondholders, who committed $500 million of exit financing.",
     "lesson": "This one has an official committee of unsecured creditors with its own counsel, banker and financial advisor, all paid by the estate. Compare that with a prepackaged case such as Multi-Color, where no committee was needed.",
     "parties": [
@@ -988,6 +1002,19 @@
         "fa": [
           "AlixPartners"
         ]
+      },
+      {
+        "name": "ABL lenders",
+        "note": "",
+        "side": "Creditor",
+        "counsel": [
+          "Morgan Lewis",
+          "Otterbourg"
+        ],
+        "bank": [],
+        "fa": [
+          "M3 Partners"
+        ]
       }
     ],
     "sources": [
@@ -1002,9 +1029,14 @@
       {
         "label": "Committee banker retention application",
         "url": "https://cases.stretto.com/public/x503/14494/PLEADINGS/1449403052680000000011.pdf"
+      },
+      {
+        "label": "Plan confirmation announcement",
+        "url": "https://www.saksglobal.com/2026-06-05-Saks-Global-Secures-Court-Approval-of-Plan-of-Reorganization,-Paving-the-Way-for-Emergence"
       }
     ],
-    "updated": "2026-10-04"
+    "updated": "2026-10-05",
+    "final": true
   },
   {
     "id": "first-brands-group",
@@ -1014,9 +1046,9 @@
     "case_no": "25-90399",
     "type": "Free fall",
     "debt": "$10 billion to $50 billion of liabilities",
-    "status": "Sale process launched January 2026. Later status not checked.",
+    "status": "Converted to Chapter 7 liquidation on August 24, 2026.",
     "summary": "The auto parts maker behind FRAM, TRICO and Raybestos collapsed into bankruptcy when billions of dollars of off-balance-sheet financing came to light. Lenders funded a $1.1 billion emergency loan, and an investigation by the company's advisors found widespread irregularities in how its invoices had been financed. The businesses were put up for sale.",
-    "lesson": "One of the largest and messiest cases of the cycle. Note the lender group added a financial advisor (Huron) on top of its law firm and bank once the scale of the accounting problems became clear.",
+    "lesson": "Not every Chapter 11 ends with a plan. After the sales raised far less than the bankruptcy loan, the judge rejected the proposed plan and converted the case to a Chapter 7 liquidation.",
     "parties": [
       {
         "name": "First Brands Group",
@@ -1050,7 +1082,10 @@
         "name": "Official committee of unsecured creditors",
         "note": "Appointed October 2025",
         "side": "Committee",
-        "counsel": [],
+        "counsel": [
+          "Brown Rudnick",
+          "Cole Schotz"
+        ],
         "bank": [],
         "fa": []
       }
@@ -1063,9 +1098,137 @@
       {
         "label": "Company press release, sale process",
         "url": "https://www.businesswire.com/news/home/20260107808266/en"
+      },
+      {
+        "label": "Committee counsel announcement",
+        "url": "https://brownrudnick.com/client_news/brown-rudnick-to-represent-unsecured-creditors-in-first-brands-group-bankruptcy/"
+      },
+      {
+        "label": "Conversion to Chapter 7",
+        "url": "https://thebrakereport.com/first-brands-chapter-7-liquidation-conversion/"
       }
     ],
-    "updated": "2026-10-05"
+    "updated": "2026-10-05",
+    "final": true
+  },
+  {
+    "id": "spirit-airlines-2025",
+    "company": "Spirit Airlines (2025 filing)",
+    "filed": "2025-08-29",
+    "court": "S.D.N.Y.",
+    "case_no": "25-11897",
+    "type": "Free fall",
+    "debt": "About $2.4 billion of long-term debt",
+    "status": "Reported to have stopped flying in May 2026 and to be winding down.",
+    "summary": "The budget airline filed for the second time in under a year, only months after leaving its first bankruptcy. The first case had reduced debt but left the airline losing money, and this time it could not find a way to keep operating.",
+    "lesson": "This is what people mean by a Chapter 22: a second bankruptcy soon after the first. Fixing the balance sheet does not help if the business itself still loses money. The advisors differ from the 2024 case, so do not mix the two up.",
+    "parties": [
+      {
+        "name": "Spirit Airlines",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Davis Polk",
+          "Debevoise & Plimpton"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": [
+          "FTI Consulting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Company counsel announcement",
+        "url": "https://www.davispolk.com/experience/spirit-airlines-chapter-11-filing"
+      },
+      {
+        "label": "Filing coverage",
+        "url": "https://www.financierworldwide.com/spirit-files-for-second-chapter-11-bankruptcy"
+      }
+    ],
+    "updated": "2026-10-05",
+    "final": true
+  },
+  {
+    "id": "wolfspeed",
+    "company": "Wolfspeed",
+    "filed": "2025-06-30",
+    "court": "S.D. Tex.",
+    "case_no": "25-90163",
+    "type": "Prepackaged",
+    "debt": "About $6.7 billion of liabilities",
+    "status": "Emerged September 29, 2025.",
+    "summary": "The silicon carbide chip maker borrowed heavily to build new factories and could not carry the debt when demand grew slower than planned. A prepackaged plan cut its debt by about 70% and pushed maturities out to 2030.",
+    "lesson": "Three creditor groups, three full advisor teams: secured noteholders, a strategic lender that is also a customer (Renesas), and convertible noteholders. A good case for mapping who wanted what.",
+    "parties": [
+      {
+        "name": "Wolfspeed",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Latham & Watkins",
+          "Hunton Andrews Kurth"
+        ],
+        "bank": [
+          "Perella Weinberg Partners"
+        ],
+        "fa": [
+          "FTI Consulting"
+        ]
+      },
+      {
+        "name": "Senior secured noteholders",
+        "note": "RSA party",
+        "side": "Creditor",
+        "counsel": [
+          "Paul, Weiss"
+        ],
+        "bank": [
+          "Moelis"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Renesas",
+        "note": "Major creditor and customer",
+        "side": "Creditor",
+        "counsel": [
+          "Kirkland & Ellis"
+        ],
+        "bank": [
+          "PJT Partners",
+          "BofA Securities"
+        ],
+        "fa": []
+      },
+      {
+        "name": "Convertible noteholders",
+        "note": "RSA party",
+        "side": "Creditor",
+        "counsel": [
+          "Ropes & Gray"
+        ],
+        "bank": [
+          "Ducera Partners"
+        ],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Case summary",
+        "url": "https://bondoro.com/wolfspeed/"
+      },
+      {
+        "label": "Filing coverage",
+        "url": "https://www.verdict.co.uk/wolfspeed-bankruptcy-debt-restructuring/"
+      }
+    ],
+    "updated": "2026-10-05",
+    "final": true
   },
   {
     "id": "at-home",
@@ -1125,10 +1288,10 @@
     "company": "Marelli",
     "filed": "2025-06-11",
     "court": "D. Del.",
-    "case_no": "",
+    "case_no": "25-11034",
     "type": "Prearranged",
-    "debt": "",
-    "status": "Filed with a lender deal and $1.1 billion of financing. Later status not checked.",
+    "debt": "About $4.9 billion of funded debt",
+    "status": "No competing bid emerged. Company expected to exit in 2026 owned by its lenders; later status not checked.",
     "summary": "The global auto parts supplier filed with about 80% of its lenders signed on to a deal under which the lenders providing a $1.1 billion bankruptcy loan take ownership, subject to a 45-day window for better offers.",
     "lesson": "The lender group hired three advisors: a law firm, a bank and a financial advisor. When lenders are about to own the company, they need someone to dig into the operations as well as the deal.",
     "parties": [
@@ -1168,5 +1331,90 @@
       }
     ],
     "updated": "2026-10-05"
+  },
+  {
+    "id": "everstream",
+    "company": "Everstream",
+    "filed": "2025-05-28",
+    "court": "S.D. Tex.",
+    "case_no": "25-90144",
+    "type": "Unknown",
+    "debt": "$1 billion to $10 billion of liabilities",
+    "status": "Plan effective.",
+    "summary": "A business fiber network provider that filed in Houston with more than $1 billion of liabilities. Its plan has since taken effect.",
+    "lesson": "The entry is thin on purpose: only the company's advisors and the committee's counsel are confirmed. Check the case page for the rest.",
+    "parties": [
+      {
+        "name": "Everstream",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Weil"
+        ],
+        "bank": [
+          "PJT Partners"
+        ],
+        "fa": [
+          "Alvarez & Marsal"
+        ]
+      },
+      {
+        "name": "Official committee of unsecured creditors",
+        "note": "",
+        "side": "Committee",
+        "counsel": [
+          "McDermott Will & Schulte"
+        ],
+        "bank": [],
+        "fa": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Case page",
+        "url": "https://elevenflo.com/cases/everstream-solutions-llc-2587"
+      }
+    ],
+    "updated": "2026-10-05",
+    "final": true
+  },
+  {
+    "id": "ascend-performance-materials",
+    "company": "Ascend Performance Materials",
+    "filed": "2025-04-21",
+    "court": "S.D. Tex.",
+    "case_no": "25-90127",
+    "type": "Prearranged",
+    "debt": "About $2 billion of debt converted to equity",
+    "status": "Emerged December 19, 2025.",
+    "summary": "A nylon and chemicals producer that handed ownership to its lenders, converting about $2 billion of debt into equity. The plan was confirmed in December 2025.",
+    "lesson": "The company hired two banks and two financial advisors. On large, complicated cases the work is sometimes split, for example one bank running the financing and another the restructuring.",
+    "parties": [
+      {
+        "name": "Ascend Performance Materials",
+        "note": "Debtor",
+        "side": "Debtor",
+        "counsel": [
+          "Kirkland & Ellis",
+          "Bracewell"
+        ],
+        "bank": [
+          "Ducera Partners",
+          "PJT Partners"
+        ],
+        "fa": [
+          "AlixPartners",
+          "FTI Consulting"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "label": "Case write-up",
+        "url": "https://elevenflo.com/blog/ascend-performance-materials"
+      }
+    ],
+    "updated": "2026-10-05",
+    "final": true
   }
 ]
