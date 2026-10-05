@@ -1,0 +1,54 @@
+[
+  {
+    "id": "brightline", "company": "Brightline", "filed": "2026-09-24", "court": "D.N.J.", "case_no": "",
+    "type": "Prearranged", "debt": "About $5.5 billion", "status": "Pending. Interim financing approved.",
+    "summary": "Florida's private Miami to Orlando passenger railroad put 17 non-operating parent entities into Chapter 11. The operating company stayed out of court. A restructuring support agreement with bond insurer Assured Guaranty and a group of mutual fund bondholders brings $490 million of new long-term capital, and two more bondholder groups signed on at the first day hearing.",
+    "lesson": "The $258 million financing is borrowed by the operating company, which is not in bankruptcy, and a term lender objected to it. Five separate creditor constituencies makes this a good case for learning how groups form around different layers of a capital structure.",
+    "parties": [
+      {"name": "Brightline", "note": "Debtor", "side": "Debtor", "counsel": ["Skadden", "Cole Schotz"], "bank": ["Perella Weinberg Partners", "Houlihan Lokey"], "fa": ["Alvarez & Marsal"]},
+      {"name": "Assured Guaranty", "note": "Bond insurer, RSA party and DIP lender", "side": "Creditor", "counsel": ["Milbank"], "bank": ["Lazard"], "fa": []},
+      {"name": "Ad hoc mutual fund group", "note": "RSA party and DIP lender", "side": "Creditor", "counsel": ["Herbert Smith Freehills Kramer"], "bank": ["GLC Advisors"], "fa": []},
+      {"name": "Ad hoc group of East noteholders", "note": "Joined the RSA after filing", "side": "Creditor", "counsel": ["Davis Polk"], "bank": [], "fa": []},
+      {"name": "Ad hoc group of OpCo bondholders", "note": "Joined the RSA after filing", "side": "Creditor", "counsel": ["Cleary Gottlieb"], "bank": [], "fa": []},
+      {"name": "CK Opportunities", "note": "Term lender, objected to the financing", "side": "Creditor", "counsel": ["Brown Rudnick", "Clark Smith Villazor"], "bank": [], "fa": []}
+    ],
+    "sources": [
+      {"label": "Company press release", "url": "https://www.gobrightline.com/press-room/2026/brightline-florida-reaches-agreement-on-financial-restructuring"},
+      {"label": "Bond Buyer, first day hearing", "url": "https://www.bondbuyer.com/news/brightline-bankruptcy-day-one-court-approves-dip-over-objection"}
+    ],
+    "updated": "2026-10-04"
+  },
+  {
+    "id": "multi-color-corporation", "company": "Multi-Color Corporation", "filed": "2026-01-29", "court": "D.N.J.", "case_no": "",
+    "type": "Prepackaged", "debt": "Net debt cut by about $3.8 billion", "status": "Emerged.",
+    "summary": "A prepackaged plan for the label maker owned by private equity firm CD&R. Creditors had agreed to the deal before the filing, so the case moved quickly: the plan was confirmed and the company emerged with maturities pushed out to 2033 and annual cash interest down by more than $330 million.",
+    "lesson": "The sponsor has its own lawyers and banker, separate from the company's. When a private equity owner is negotiating to keep or give up its stake, it is a party at the table, not part of the debtor's team.",
+    "parties": [
+      {"name": "Multi-Color Corporation", "note": "Debtor", "side": "Debtor", "counsel": ["Kirkland & Ellis", "Cole Schotz"], "bank": ["Evercore"], "fa": ["AlixPartners"]},
+      {"name": "Special committee of the LABL board", "note": "Independent directors", "side": "Debtor", "counsel": ["Quinn Emanuel"], "bank": [], "fa": []},
+      {"name": "CD&R", "note": "Sponsor", "side": "Sponsor", "counsel": ["Debevoise & Plimpton", "Latham & Watkins"], "bank": ["Moelis"], "fa": []},
+      {"name": "Ad hoc group of secured creditors", "note": "", "side": "Creditor", "counsel": ["Milbank"], "bank": ["PJT Partners"], "fa": []}
+    ],
+    "sources": [
+      {"label": "Company press release", "url": "https://www.businesswire.com/news/home/20260204258576/en/Multi-Color-Corporation-Receives-Court-Approval-of-First-Day-Motions"}
+    ],
+    "updated": "2026-10-04", "final": true
+  },
+  {
+    "id": "saks-global", "company": "Saks Global", "filed": "2026-01-14", "court": "S.D. Tex.", "case_no": "",
+    "type": "Negotiated in court", "debt": "", "status": "RSA signed April 2026. Later status not checked.",
+    "summary": "The owner of Saks Fifth Avenue, Neiman Marcus and Bergdorf Goodman filed after struggling under the debt from its $2.7 billion purchase of Neiman Marcus. In April it signed a restructuring support agreement with an ad hoc group of senior secured bondholders, who committed $500 million of exit financing.",
+    "lesson": "This one has an official committee of unsecured creditors with its own counsel, banker and financial advisor, all paid by the estate. Compare that with the prepackaged case above, where no committee was needed.",
+    "parties": [
+      {"name": "Saks Global", "note": "Debtor", "side": "Debtor", "counsel": ["Willkie Farr & Gallagher", "Haynes and Boone"], "bank": ["PJT Partners"], "fa": ["Berkeley Research Group"]},
+      {"name": "Ad hoc group of senior secured bondholders", "note": "RSA party, exit financing", "side": "Creditor", "counsel": ["Paul, Weiss"], "bank": ["Lazard"], "fa": ["FTI Consulting"]},
+      {"name": "Official committee of unsecured creditors", "note": "", "side": "Committee", "counsel": ["Morrison Foerster"], "bank": ["Houlihan Lokey"], "fa": ["AlixPartners"]}
+    ],
+    "sources": [
+      {"label": "Company press release", "url": "https://www.prnewswire.com/news-releases/saks-global-enters-into-restructuring-support-agreement-with-its-capital-partners-302732846.html"},
+      {"label": "Committee counsel announcement", "url": "https://www.mofo.com/resources/news/260130-represent-official-committee-unsecured-creditors-saks-global"},
+      {"label": "Committee banker retention application", "url": "https://cases.stretto.com/public/x503/14494/PLEADINGS/1449403052680000000011.pdf"}
+    ],
+    "updated": "2026-10-04"
+  }
+]

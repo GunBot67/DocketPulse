@@ -1,0 +1,18 @@
+{
+  "contact": "you@example.com",
+  "courts": {
+    "deb": "https://ecf.deb.uscourts.gov/cgi-bin/rss_outside.pl",
+    "txsb": "https://ecf.txsb.uscourts.gov/cgi-bin/rss_outside.pl",
+    "nysb": "https://ecf.nysb.uscourts.gov/cgi-bin/rss_outside.pl",
+    "njb": "https://ecf.njb.uscourts.gov/cgi-bin/rss_outside.pl"
+  },
+  "court_labels": {"deb": "D. Del.", "txsb": "S.D. Tex.", "nysb": "S.D.N.Y.", "njb": "D.N.J."},
+  "min_liabilities_musd": 500,
+  "model": "claude-sonnet-5-5",
+  "max_searches": 8,
+  "max_enrich_per_run": 3,
+  "max_enrich_per_day": 8,
+  "watch_days": 14,
+  "max_case_age_days": 45,
+  "refresh_days": 75
+}
