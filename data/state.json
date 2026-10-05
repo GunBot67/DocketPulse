@@ -1,4 +1,27 @@
 {
-  "candidates": {},
+  "candidates": {
+    "nysb:26-12404": {
+      "court": "nysb",
+      "case_no": "26-12404",
+      "name": "Terre Louise Siepser-Simpson",
+      "first_seen": "2026-10-05",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337636",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-05"
+    },
+    "nysb:26-10379": {
+      "court": "nysb",
+      "case_no": "26-10379",
+      "name": "The Condominium Board of Managers of The Cassa NY",
+      "first_seen": "2026-10-05",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?333748",
+      "signals": [
+        "dip"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-05"
+    }
+  },
   "enrich_log": {}
 }
