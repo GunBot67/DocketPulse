@@ -69,10 +69,10 @@ a{color:inherit}
 .wgl-scroll{overflow-x:auto}
 table.wgl{width:100%;border-collapse:collapse;font-size:.95rem}
 .wgl th,.wgl td{text-align:left;vertical-align:top;padding:11px 14px;border-top:1px solid var(--rule)}
-.wgl thead th{font-weight:700;font-size:.9rem;border-top:0;border-bottom:2px solid var(--ink);padding-top:9px;padding-bottom:9px}
-.wgl thead th.c-bank{background:var(--c-bank);color:#FFFFFF}
-.wgl thead th.c-law{background:var(--c-law);color:#FFFFFF}
-.wgl thead th.c-fa{background:var(--c-fa);color:#FFFFFF}
+.wgl thead th{font-weight:800;font-size:1rem;border-top:0;border-bottom:2px solid var(--ink);padding-top:9px;padding-bottom:9px}
+.wgl thead th.c-bank{color:var(--c-bank)}
+.wgl thead th.c-law{color:var(--c-law)}
+.wgl thead th.c-fa{color:var(--c-fa)}
 .wgl th:first-child,.wgl td:first-child{padding-left:24px}
 .wgl th[scope="row"]{font-weight:700;width:30%}
 .wgl th[scope="row"] small{display:block;font-weight:400;color:var(--ink2);font-size:.85rem;margin-top:2px}
@@ -172,7 +172,7 @@ footer{padding:24px 0 48px;font-size:.88rem;color:var(--ink2);max-width:70ch}
 const CASES_INLINE = /*__CASES__*/null;
 let CASES = [];
 
-const ROLES = [["counsel","Counsel","law"],["bank","Investment bank","bank"],["fa","Financial advisor","fa"]];
+const ROLES = [["counsel","Counsel","law"],["bank","Investment Bank","bank"],["fa","Financial Advisor","fa"]];
 const state = {view:"deals", q:"", firm:""};
 const $ = id => document.getElementById(id);
 const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
