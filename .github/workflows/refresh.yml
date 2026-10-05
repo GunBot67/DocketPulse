@@ -1,0 +1,41 @@
+name: Refresh open cases
+
+on:
+  schedule:
+    - cron: "40 13 * * 1"   # Mondays
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: tracker-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Re-research recent cases
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m tracker refresh --pr-body "$RUNNER_TEMP/pr.md"
+      - name: Check for updates
+        id: drafts
+        run: |
+          if [ -f "$RUNNER_TEMP/pr.md" ]; then echo "found=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Open a pull request for review
+        if: steps.drafts.outputs.found == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          add-paths: data/cases.json
+          branch: drafts/refresh-${{ github.run_id }}
+          title: "Updates to open cases"
+          body-path: ${{ runner.temp }}/pr.md
+          commit-message: "Update open case entries"

@@ -1,0 +1,55 @@
+name: Add a case from an issue comment
+
+# Free mode. When you paste a research answer as a comment on a "New case:" or
+# "Update:" issue, this validates it, adds it to the site and closes the issue.
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: tracker-data
+  cancel-in-progress: false
+
+jobs:
+  import:
+    # Only people with write access to the repository can publish this way.
+    if: >-
+      !github.event.issue.pull_request &&
+      contains(fromJSON('["OWNER","MEMBER","COLLABORATOR"]'), github.event.comment.author_association) &&
+      (startsWith(github.event.issue.title, 'New case:') || startsWith(github.event.issue.title, 'Update:')) &&
+      contains(github.event.comment.body, '{')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate and add the entry
+        id: add
+        run: |
+          set +e
+          python -m tracker import-comment --event "$GITHUB_EVENT_PATH" > "$RUNNER_TEMP/result.md" 2>&1
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+      - name: Publish
+        if: steps.add.outputs.code == '0'
+        run: |
+          git config user.name "rx-tracker bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/cases.json data/state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Add case from issue #$ISSUE"
+            git push
+            gh workflow run deploy.yml
+          fi
+          gh issue close "$ISSUE" --comment "$(cat "$RUNNER_TEMP/result.md")"
+      - name: Report a problem
+        if: steps.add.outputs.code != '0'
+        run: gh issue comment "$ISSUE" --body-file "$RUNNER_TEMP/result.md"

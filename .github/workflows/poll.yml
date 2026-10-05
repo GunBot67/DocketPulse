@@ -1,0 +1,62 @@
+name: Poll courts and draft new cases
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # every two hours; court feeds only hold the last 12 to 24 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: tracker-data
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Read court feeds
+        run: python -m tracker poll
+      - name: Draft entries for flagged cases
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m tracker enrich --pr-body "$RUNNER_TEMP/pr.md"
+      - name: Free mode, open an issue with a research prompt for each flagged case
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python -m tracker queue --out "$RUNNER_TEMP/issues"
+          for f in "$RUNNER_TEMP"/issues/*.md; do
+            [ -e "$f" ] || continue
+            title="$(head -n 1 "$f")"
+            tail -n +2 "$f" > "$RUNNER_TEMP/body.md"
+            gh issue create --title "$title" --body-file "$RUNNER_TEMP/body.md"
+          done
+      - name: Save feed state to main
+        run: |
+          git config user.name "rx-tracker bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/state.json
+          git diff --cached --quiet || (git commit -m "Update court feed state" && git push)
+      - name: Check for drafts
+        id: drafts
+        run: |
+          if [ -f "$RUNNER_TEMP/pr.md" ]; then echo "found=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Open a pull request for review
+        if: steps.drafts.outputs.found == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          add-paths: data/cases.json
+          branch: drafts/run-${{ github.run_id }}
+          title: "New cases to review"
+          body-path: ${{ runner.temp }}/pr.md
+          commit-message: "Draft new case entries"
