@@ -41,6 +41,54 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-06"
+    },
+    "deb:26-11523": {
+      "court": "deb",
+      "case_no": "26-11523",
+      "name": "Wilmington Realty LLC",
+      "first_seen": "2026-10-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202708",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-06"
+    },
+    "deb:26-11522": {
+      "court": "deb",
+      "case_no": "26-11522",
+      "name": "Waycross Realty Fund LLC",
+      "first_seen": "2026-10-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202707",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-06"
+    },
+    "deb:26-11521": {
+      "court": "deb",
+      "case_no": "26-11521",
+      "name": "River City Realty Fund LLC",
+      "first_seen": "2026-10-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202706",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-06"
+    },
+    "deb:26-11520": {
+      "court": "deb",
+      "case_no": "26-11520",
+      "name": "Mystic Woods LLC",
+      "first_seen": "2026-10-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202705",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-06"
     }
   },
   "enrich_log": {}
