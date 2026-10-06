@@ -89,6 +89,16 @@
       ],
       "status": "watching",
       "last_seen": "2026-10-06"
+    },
+    "njb:26-21382": {
+      "court": "njb",
+      "case_no": "26-21382",
+      "name": "Nieves Alvarez",
+      "first_seen": "2026-10-06",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-06"
     }
   },
   "enrich_log": {}
