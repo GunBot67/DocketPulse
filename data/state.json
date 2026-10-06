@@ -21,6 +21,26 @@
       ],
       "status": "watching",
       "last_seen": "2026-10-06"
+    },
+    "nysb:26-12408": {
+      "court": "nysb",
+      "case_no": "26-12408",
+      "name": "Monticello Owner 2 LLC",
+      "first_seen": "2026-10-06",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337645",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-06"
+    },
+    "nysb:26-12407": {
+      "court": "nysb",
+      "case_no": "26-12407",
+      "name": "Monticello Owner LLC",
+      "first_seen": "2026-10-06",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337644",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-06"
     }
   },
   "enrich_log": {}
