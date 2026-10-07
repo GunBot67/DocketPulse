@@ -8,7 +8,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337636",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
     },
     "nysb:26-10379": {
       "court": "nysb",
@@ -30,7 +30,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337645",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
     },
     "nysb:26-12407": {
       "court": "nysb",
@@ -40,7 +40,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337644",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
     },
     "deb:26-11523": {
       "court": "deb",
@@ -52,7 +52,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
     },
     "deb:26-11522": {
       "court": "deb",
@@ -64,7 +64,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
     },
     "deb:26-11521": {
       "court": "deb",
@@ -76,7 +76,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
     },
     "deb:26-11520": {
       "court": "deb",
@@ -88,7 +88,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -98,7 +98,17 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
+    },
+    "njb:26-21388": {
+      "court": "njb",
+      "case_no": "26-21388",
+      "name": "JRM Real Estate Holdings LLC",
+      "first_seen": "2026-10-07",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148251",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-07"
     }
   },
   "enrich_log": {}
