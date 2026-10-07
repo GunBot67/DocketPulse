@@ -157,6 +157,16 @@
       ],
       "status": "watching",
       "last_seen": "2026-10-07"
+    },
+    "nysb:26-12423": {
+      "court": "nysb",
+      "case_no": "26-12423",
+      "name": "AC Wines & Liquors, Inc.",
+      "first_seen": "2026-10-07",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337672",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-07"
     }
   },
   "enrich_log": {}
