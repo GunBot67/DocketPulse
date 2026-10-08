@@ -174,7 +174,9 @@
       "name": "Diversified Botanics, Inc.",
       "first_seen": "2026-10-08",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202987",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-10-08"
     }
