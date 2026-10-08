@@ -8,7 +8,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337636",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "nysb:26-10379": {
       "court": "nysb",
@@ -30,7 +30,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337645",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "nysb:26-12407": {
       "court": "nysb",
@@ -40,7 +40,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337644",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "deb:26-11523": {
       "court": "deb",
@@ -88,7 +88,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -98,7 +98,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "njb:26-21388": {
       "court": "njb",
@@ -108,7 +108,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148251",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "deb:26-10332": {
       "court": "deb",
@@ -120,7 +120,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "deb:26-10331": {
       "court": "deb",
@@ -132,7 +132,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "deb:26-10330": {
       "court": "deb",
@@ -144,7 +144,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "deb:26-10329": {
       "court": "deb",
@@ -156,7 +156,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "nysb:26-12423": {
       "court": "nysb",
@@ -166,7 +166,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337672",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     }
   },
   "enrich_log": {}
