@@ -167,6 +167,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-08"
+    },
+    "deb:26-11589": {
+      "court": "deb",
+      "case_no": "26-11589",
+      "name": "Diversified Botanics, Inc.",
+      "first_seen": "2026-10-08",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202987",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-08"
     }
   },
   "enrich_log": {}
