@@ -189,6 +189,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-08"
+    },
+    "txsb:26-37616": {
+      "court": "txsb",
+      "case_no": "26-37616",
+      "name": "Artemio Muniz, Jr",
+      "first_seen": "2026-10-08",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501659",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-08"
     }
   },
   "enrich_log": {}
