@@ -88,7 +88,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-09"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -175,9 +175,10 @@
       "first_seen": "2026-10-08",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202987",
       "signals": [
+        "claims_agent",
         "first_day"
       ],
-      "status": "watching",
+      "status": "queued",
       "last_seen": "2026-10-09"
     },
     "njb:26-21480": {
