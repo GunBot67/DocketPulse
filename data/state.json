@@ -200,6 +200,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-10"
+    },
+    "njb:26-21541": {
+      "court": "njb",
+      "case_no": "26-21541",
+      "name": "Home Stone Living LLC",
+      "first_seen": "2026-10-12",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148407",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-12"
     }
   },
   "enrich_log": {}
