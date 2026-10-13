@@ -210,6 +210,18 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-13"
+    },
+    "txsb:26-37173": {
+      "court": "txsb",
+      "case_no": "26-37173",
+      "name": "Omar Sahban Afra",
+      "first_seen": "2026-10-13",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501075",
+      "signals": [
+        "complex_case"
+      ],
+      "status": "queued",
+      "last_seen": "2026-10-13"
     }
   },
   "enrich_log": {}
