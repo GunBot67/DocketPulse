@@ -235,6 +235,16 @@
       ],
       "status": "queued",
       "last_seen": "2026-10-13"
+    },
+    "njb:26-21577": {
+      "court": "njb",
+      "case_no": "26-21577",
+      "name": "Hawthorne PS Invest Group LLC",
+      "first_seen": "2026-10-13",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148444",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-13"
     }
   },
   "enrich_log": {}
