@@ -245,6 +245,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-13"
+    },
+    "njb:26-21578": {
+      "court": "njb",
+      "case_no": "26-21578",
+      "name": "30 QUABECK AVENUE LLC",
+      "first_seen": "2026-10-13",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148445",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-13"
     }
   },
   "enrich_log": {}
