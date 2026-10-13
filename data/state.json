@@ -229,8 +229,11 @@
       "name": "Character Technologies, Inc.",
       "first_seen": "2026-10-13",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203004",
-      "signals": [],
-      "status": "watching",
+      "signals": [
+        "claims_agent",
+        "first_day"
+      ],
+      "status": "queued",
       "last_seen": "2026-10-13"
     }
   },
