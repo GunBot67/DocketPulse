@@ -275,6 +275,36 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-14"
+    },
+    "txsb:26-90816": {
+      "court": "txsb",
+      "case_no": "26-90816",
+      "name": "Knights Valley California LLC",
+      "first_seen": "2026-10-14",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501809",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-14"
+    },
+    "txsb:26-90815": {
+      "court": "txsb",
+      "case_no": "26-90815",
+      "name": "Calistoga Vintner Services LLC",
+      "first_seen": "2026-10-14",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501808",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-14"
+    },
+    "txsb:26-90814": {
+      "court": "txsb",
+      "case_no": "26-90814",
+      "name": "Museion Services LLC",
+      "first_seen": "2026-10-14",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501807",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-14"
     }
   },
   "enrich_log": {}
