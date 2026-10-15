@@ -20,7 +20,7 @@
         "dip"
       ],
       "status": "watching",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-15"
     },
     "nysb:26-12408": {
       "court": "nysb",
@@ -221,7 +221,7 @@
         "complex_case"
       ],
       "status": "queued",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "deb:26-11603": {
       "court": "deb",
@@ -302,8 +302,11 @@
       "name": "Museion Services LLC",
       "first_seen": "2026-10-14",
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501807",
-      "signals": [],
-      "status": "watching",
+      "signals": [
+        "complex_case",
+        "joint_admin"
+      ],
+      "status": "queued",
       "last_seen": "2026-10-15"
     },
     "nysb:26-12453": {
@@ -337,6 +340,16 @@
       "signals": [
         "joint_admin"
       ],
+      "status": "watching",
+      "last_seen": "2026-10-15"
+    },
+    "txsb:26-80733": {
+      "court": "txsb",
+      "case_no": "26-80733",
+      "name": "Cracon, Inc.",
+      "first_seen": "2026-10-15",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501846",
+      "signals": [],
       "status": "watching",
       "last_seen": "2026-10-15"
     }
