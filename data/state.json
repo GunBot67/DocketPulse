@@ -305,6 +305,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-15"
+    },
+    "nysb:26-12453": {
+      "court": "nysb",
+      "case_no": "26-12453",
+      "name": "Traxx Auto Preformance & Repair",
+      "first_seen": "2026-10-15",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337757",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-15"
     }
   },
   "enrich_log": {}
