@@ -315,6 +315,30 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-15"
+    },
+    "nysb:26-22837": {
+      "court": "nysb",
+      "case_no": "26-22837",
+      "name": "CDX Medical IP Inc.",
+      "first_seen": "2026-10-15",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?336889",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-15"
+    },
+    "nysb:26-22835": {
+      "court": "nysb",
+      "case_no": "26-22835",
+      "name": "CDX Medical Acquisition Inc.",
+      "first_seen": "2026-10-15",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?336887",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-15"
     }
   },
   "enrich_log": {}
