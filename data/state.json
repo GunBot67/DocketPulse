@@ -282,7 +282,9 @@
       "name": "Knights Valley California LLC",
       "first_seen": "2026-10-14",
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501809",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
       "last_seen": "2026-10-16"
     },
@@ -292,7 +294,9 @@
       "name": "Calistoga Vintner Services LLC",
       "first_seen": "2026-10-14",
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501808",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
       "last_seen": "2026-10-16"
     },
