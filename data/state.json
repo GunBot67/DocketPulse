@@ -272,7 +272,9 @@
       "name": "The Final Impression LLC",
       "first_seen": "2026-10-14",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148517",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-10-16"
     },
@@ -363,6 +365,16 @@
       "name": "New Garden Home LLC",
       "first_seen": "2026-10-16",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337771",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-16"
+    },
+    "nysb:26-12467": {
+      "court": "nysb",
+      "case_no": "26-12467",
+      "name": "Madison Development LLC",
+      "first_seen": "2026-10-16",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337786",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-16"
