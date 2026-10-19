@@ -98,7 +98,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-19"
     },
     "njb:26-21388": {
       "court": "njb",
@@ -244,7 +244,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148444",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-19"
     },
     "njb:26-21578": {
       "court": "njb",
@@ -254,7 +254,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148445",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-19"
     },
     "njb:26-21651": {
       "court": "njb",
@@ -387,7 +387,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337792",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-19"
     }
   },
   "enrich_log": {}
