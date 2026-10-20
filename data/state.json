@@ -420,6 +420,16 @@
       ],
       "status": "watching",
       "last_seen": "2026-10-20"
+    },
+    "njb:26-21855": {
+      "court": "njb",
+      "case_no": "26-21855",
+      "name": "1065 Amboy Avenue, LLC",
+      "first_seen": "2026-10-20",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148770",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-20"
     }
   },
   "enrich_log": {}
