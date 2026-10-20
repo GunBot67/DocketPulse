@@ -28,7 +28,9 @@
       "name": "Monticello Owner 2 LLC",
       "first_seen": "2026-10-06",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337645",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
       "last_seen": "2026-10-20"
     },
@@ -38,7 +40,9 @@
       "name": "Monticello Owner LLC",
       "first_seen": "2026-10-06",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337644",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
       "last_seen": "2026-10-20"
     },
@@ -437,6 +441,16 @@
       "name": "780 E 24th Street, LLC",
       "first_seen": "2026-10-20",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148791",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-20"
+    },
+    "txsb:26-37869": {
+      "court": "txsb",
+      "case_no": "26-37869",
+      "name": "Horizon Property Partnership, a Texas Partnership",
+      "first_seen": "2026-10-20",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501976",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-20"
