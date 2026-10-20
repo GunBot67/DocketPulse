@@ -408,6 +408,18 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-20"
+    },
+    "nysb:26-12188": {
+      "court": "nysb",
+      "case_no": "26-12188",
+      "name": "Air Baltic Corporation AS",
+      "first_seen": "2026-10-20",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337264",
+      "signals": [
+        "dip"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-20"
     }
   },
   "enrich_log": {}
