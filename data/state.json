@@ -464,6 +464,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-21"
+    },
+    "nysb:26-12495": {
+      "court": "nysb",
+      "case_no": "26-12495",
+      "name": "Braskem America Finance Company",
+      "first_seen": "2026-10-21",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337856",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-21"
     }
   },
   "enrich_log": {}
