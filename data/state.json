@@ -554,9 +554,11 @@
       "first_seen": "2026-10-21",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203049",
       "signals": [
+        "claims_agent",
+        "first_day",
         "joint_admin"
       ],
-      "status": "watching",
+      "status": "queued",
       "last_seen": "2026-10-21"
     }
   },
