@@ -560,6 +560,16 @@
       ],
       "status": "queued",
       "last_seen": "2026-10-21"
+    },
+    "njb:26-21913": {
+      "court": "njb",
+      "case_no": "26-21913",
+      "name": "Prizam Beauty Supply, LLC",
+      "first_seen": "2026-10-21",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148829",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-21"
     }
   },
   "enrich_log": {}
