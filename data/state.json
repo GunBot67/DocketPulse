@@ -102,7 +102,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-20"
+      "last_seen": "2026-10-21"
     },
     "njb:26-21388": {
       "court": "njb",
@@ -170,7 +170,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337672",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-21"
     },
     "deb:26-11589": {
       "court": "deb",
@@ -555,6 +555,7 @@
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203049",
       "signals": [
         "claims_agent",
+        "dip",
         "first_day",
         "joint_admin"
       ],
@@ -567,6 +568,26 @@
       "name": "Prizam Beauty Supply, LLC",
       "first_seen": "2026-10-21",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148829",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-21"
+    },
+    "nysb:26-23052": {
+      "court": "nysb",
+      "case_no": "26-23052",
+      "name": "69-79 West Main St LLC",
+      "first_seen": "2026-10-21",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337860",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-21"
+    },
+    "njb:26-21924": {
+      "court": "njb",
+      "case_no": "26-21924",
+      "name": "BNG Industries LLC",
+      "first_seen": "2026-10-21",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148840",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-21"
