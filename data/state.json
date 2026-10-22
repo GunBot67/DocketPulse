@@ -601,6 +601,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-22"
+    },
+    "nysb:26-36123": {
+      "court": "nysb",
+      "case_no": "26-36123",
+      "name": "Millerton25 Inc.",
+      "first_seen": "2026-10-22",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337873",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-22"
     }
   },
   "enrich_log": {}
