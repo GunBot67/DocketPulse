@@ -401,7 +401,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148726",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "nysb:26-23046": {
       "court": "nysb",
@@ -609,6 +609,18 @@
       "first_seen": "2026-10-22",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337873",
       "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-22"
+    },
+    "deb:26-11505": {
+      "court": "deb",
+      "case_no": "26-11505",
+      "name": "K. Heeps HoldCo, LLC",
+      "first_seen": "2026-10-22",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202689",
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-10-22"
     }
