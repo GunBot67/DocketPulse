@@ -32,7 +32,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "nysb:26-12407": {
       "court": "nysb",
@@ -44,7 +44,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "deb:26-11523": {
       "court": "deb",
@@ -361,7 +361,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501846",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "nysb:26-23028": {
       "court": "nysb",
