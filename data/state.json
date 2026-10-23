@@ -92,7 +92,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-23"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -630,6 +630,16 @@
       "name": "DAVID RAY TORRES",
       "first_seen": "2026-10-23",
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502068",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-23"
+    },
+    "txsb:26-37949": {
+      "court": "txsb",
+      "case_no": "26-37949",
+      "name": "THE HIDE AWAY, LLC",
+      "first_seen": "2026-10-23",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502072",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-23"
