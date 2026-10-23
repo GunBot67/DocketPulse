@@ -643,6 +643,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-23"
+    },
+    "txsb:26-37957": {
+      "court": "txsb",
+      "case_no": "26-37957",
+      "name": "TORRES METAL RECYCLING, INC.",
+      "first_seen": "2026-10-23",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502085",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-23"
     }
   },
   "enrich_log": {}
