@@ -623,6 +623,16 @@
       ],
       "status": "watching",
       "last_seen": "2026-10-23"
+    },
+    "txsb:26-37946": {
+      "court": "txsb",
+      "case_no": "26-37946",
+      "name": "DAVID RAY TORRES",
+      "first_seen": "2026-10-23",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502068",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-23"
     }
   },
   "enrich_log": {}
