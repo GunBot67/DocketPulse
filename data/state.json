@@ -653,6 +653,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-23"
+    },
+    "njb:26-22031": {
+      "court": "njb",
+      "case_no": "26-22031",
+      "name": "Hendrick Francis Lee",
+      "first_seen": "2026-10-23",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148950",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-23"
     }
   },
   "enrich_log": {}
