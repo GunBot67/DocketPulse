@@ -663,6 +663,86 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-24"
+    },
+    "txsb:26-90824": {
+      "court": "txsb",
+      "case_no": "26-90824",
+      "name": "F-Star Socorro Intermediate Holdings, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502115",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
+    },
+    "txsb:26-90823": {
+      "court": "txsb",
+      "case_no": "26-90823",
+      "name": "5 Star Tech I L5, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502114",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
+    },
+    "txsb:26-90822": {
+      "court": "txsb",
+      "case_no": "26-90822",
+      "name": "5 Star Tech II-4 PropCo, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502113",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
+    },
+    "txsb:26-90821": {
+      "court": "txsb",
+      "case_no": "26-90821",
+      "name": "5 Star Tech II-4 HoldCo, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502112",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
+    },
+    "txsb:26-90820": {
+      "court": "txsb",
+      "case_no": "26-90820",
+      "name": "5 Star Tech II-1 PropCo, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502111",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
+    },
+    "txsb:26-90819": {
+      "court": "txsb",
+      "case_no": "26-90819",
+      "name": "5 Star Tech II-1 HoldCo, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502110",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
+    },
+    "txsb:26-90818": {
+      "court": "txsb",
+      "case_no": "26-90818",
+      "name": "5 Star Tech I PropCo, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502109",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
+    },
+    "txsb:26-90817": {
+      "court": "txsb",
+      "case_no": "26-90817",
+      "name": "5 Star Tech I HoldCo, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502107",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
     }
   },
   "enrich_log": {}
