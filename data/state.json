@@ -753,6 +753,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-24"
+    },
+    "njb:26-22046": {
+      "court": "njb",
+      "case_no": "26-22046",
+      "name": "Rosamilia Hospitality Corp",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148965",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
     }
   },
   "enrich_log": {}
