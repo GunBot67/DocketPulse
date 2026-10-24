@@ -743,6 +743,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-24"
+    },
+    "txsb:26-90825": {
+      "court": "txsb",
+      "case_no": "26-90825",
+      "name": "F-Star Socorro Intermediate, LLC",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502116",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-24"
     }
   },
   "enrich_log": {}
