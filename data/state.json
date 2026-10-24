@@ -763,6 +763,30 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-24"
+    },
+    "nysb:26-12527": {
+      "court": "nysb",
+      "case_no": "26-12527",
+      "name": "Silk EV Cayman GP Ltd and Iain Gow",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337913",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-24"
+    },
+    "nysb:26-12526": {
+      "court": "nysb",
+      "case_no": "26-12526",
+      "name": "Silk EV Cayman LP and Iain Gow",
+      "first_seen": "2026-10-24",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337912",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-24"
     }
   },
   "enrich_log": {}
