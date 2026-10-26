@@ -339,7 +339,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-22835": {
       "court": "nysb",
@@ -433,7 +433,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148770",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-26"
     },
     "njb:26-21876": {
       "court": "njb",
@@ -804,6 +804,16 @@
       "name": "Irwin J. Miller",
       "first_seen": "2026-10-26",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148984",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "txsb:26-37989": {
+      "court": "txsb",
+      "case_no": "26-37989",
+      "name": "Pryor Legacy Properties, LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502134",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-26"
