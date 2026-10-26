@@ -20,7 +20,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-12408": {
       "court": "nysb",
@@ -170,7 +170,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337672",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-26"
     },
     "deb:26-11589": {
       "court": "deb",
@@ -580,7 +580,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337860",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-26"
     },
     "njb:26-21924": {
       "court": "njb",
@@ -632,7 +632,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502068",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "txsb:26-37949": {
       "court": "txsb",
@@ -642,7 +642,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502072",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "txsb:26-37957": {
       "court": "txsb",
@@ -652,7 +652,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502085",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "njb:26-22031": {
       "court": "njb",
@@ -762,7 +762,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148965",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-12527": {
       "court": "nysb",
@@ -804,7 +804,9 @@
       "name": "Irwin J. Miller",
       "first_seen": "2026-10-26",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148984",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-10-26"
     },
@@ -814,6 +816,160 @@
       "name": "Pryor Legacy Properties, LLC",
       "first_seen": "2026-10-26",
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502134",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11339": {
+      "court": "deb",
+      "case_no": "26-11339",
+      "name": "Trellis Loop Hamilton, LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202407",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11338": {
+      "court": "deb",
+      "case_no": "26-11338",
+      "name": "Trellis Loop Florence I, LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202406",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11337": {
+      "court": "deb",
+      "case_no": "26-11337",
+      "name": "Trellis Loop Atlanta I, LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202405",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11334": {
+      "court": "deb",
+      "case_no": "26-11334",
+      "name": "Soli Organic, Inc.",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202402",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11333": {
+      "court": "deb",
+      "case_no": "26-11333",
+      "name": "ShenGrow, Inc.",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202401",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11332": {
+      "court": "deb",
+      "case_no": "26-11332",
+      "name": "SG Assets LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202400",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11331": {
+      "court": "deb",
+      "case_no": "26-11331",
+      "name": "Lactuca Houston, LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202399",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11330": {
+      "court": "deb",
+      "case_no": "26-11330",
+      "name": "Lactuca Holdings, LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202398",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11329": {
+      "court": "deb",
+      "case_no": "26-11329",
+      "name": "Lactuca Denver, LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202397",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11328": {
+      "court": "deb",
+      "case_no": "26-11328",
+      "name": "Lactuca Atlanta, LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202396",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11327": {
+      "court": "deb",
+      "case_no": "26-11327",
+      "name": "80 Acres Florence LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202395",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "deb:26-11324": {
+      "court": "deb",
+      "case_no": "26-11324",
+      "name": "80 Acres Urban Agriculture, Inc. and Andrew Turk",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?202392",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "txsb:26-37994": {
+      "court": "txsb",
+      "case_no": "26-37994",
+      "name": "Ekene Ajufo",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502144",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-26"
