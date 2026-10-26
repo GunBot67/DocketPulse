@@ -32,7 +32,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-12407": {
       "court": "nysb",
@@ -44,7 +44,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-26"
     },
     "deb:26-11523": {
       "court": "deb",
@@ -183,7 +183,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "njb:26-21480": {
       "court": "njb",
@@ -238,7 +238,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "njb:26-21577": {
       "court": "njb",
@@ -361,7 +361,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501846",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-23028": {
       "court": "nysb",
@@ -423,7 +423,7 @@
         "dip"
       ],
       "status": "watching",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-26"
     },
     "njb:26-21855": {
       "court": "njb",
@@ -622,7 +622,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "txsb:26-37946": {
       "court": "txsb",
