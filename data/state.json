@@ -92,7 +92,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -317,7 +317,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-12453": {
       "court": "nysb",
@@ -351,7 +351,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-26"
     },
     "txsb:26-80733": {
       "court": "txsb",
@@ -570,7 +570,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148829",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-23052": {
       "court": "nysb",
@@ -600,7 +600,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337870",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-36123": {
       "court": "nysb",
@@ -662,7 +662,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148950",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "txsb:26-90824": {
       "court": "txsb",
@@ -774,7 +774,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
     },
     "nysb:26-12526": {
       "court": "nysb",
@@ -786,7 +786,27 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-26"
+    },
+    "txsb:26-50168": {
+      "court": "txsb",
+      "case_no": "26-50168",
+      "name": "Tex-US Trucking Services LLC",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502132",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-26"
+    },
+    "njb:26-22065": {
+      "court": "njb",
+      "case_no": "26-22065",
+      "name": "Irwin J. Miller",
+      "first_seen": "2026-10-26",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148984",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-26"
     }
   },
   "enrich_log": {}
