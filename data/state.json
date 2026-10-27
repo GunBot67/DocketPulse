@@ -1263,6 +1263,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-27"
+    },
+    "txsb:26-38050": {
+      "court": "txsb",
+      "case_no": "26-38050",
+      "name": "Texas Industrial Medical, LLC",
+      "first_seen": "2026-10-27",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502219",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-27"
     }
   },
   "enrich_log": {}
