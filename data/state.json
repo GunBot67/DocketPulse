@@ -371,7 +371,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337771",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-27"
     },
     "nysb:26-12467": {
       "court": "nysb",
@@ -381,7 +381,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337786",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-20"
+      "last_seen": "2026-10-27"
     },
     "nysb:26-23033": {
       "court": "nysb",
@@ -778,7 +778,9 @@
       "name": "Rosamilia Hospitality Corp",
       "first_seen": "2026-10-24",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148965",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-10-27"
     },
@@ -1228,6 +1230,16 @@
       "name": "FitLab Fund Management LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203125",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-27"
+    },
+    "njb:26-22136": {
+      "court": "njb",
+      "case_no": "26-22136",
+      "name": "Himatlal Invest Group LLC",
+      "first_seen": "2026-10-27",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149057",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-27"
