@@ -1191,6 +1191,46 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-27"
+    },
+    "deb:26-11704": {
+      "court": "deb",
+      "case_no": "26-11704",
+      "name": "MHRC Management Inc.",
+      "first_seen": "2026-10-27",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203128",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-27"
+    },
+    "deb:26-11703": {
+      "court": "deb",
+      "case_no": "26-11703",
+      "name": "FL Victory LLC",
+      "first_seen": "2026-10-27",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203127",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-27"
+    },
+    "deb:26-11702": {
+      "court": "deb",
+      "case_no": "26-11702",
+      "name": "FitLab Fund Founders LLC",
+      "first_seen": "2026-10-27",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203126",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-27"
+    },
+    "deb:26-11701": {
+      "court": "deb",
+      "case_no": "26-11701",
+      "name": "FitLab Fund Management LLC",
+      "first_seen": "2026-10-27",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203125",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-27"
     }
   },
   "enrich_log": {}
