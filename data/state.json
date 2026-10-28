@@ -1285,6 +1285,66 @@
       ],
       "status": "queued",
       "last_seen": "2026-10-28"
+    },
+    "deb:26-11715": {
+      "court": "deb",
+      "case_no": "26-11715",
+      "name": "LifeCore Fitness, LLC",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203158",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-28"
+    },
+    "deb:26-11714": {
+      "court": "deb",
+      "case_no": "26-11714",
+      "name": "FitLab Fund General Partner, LLC",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203157",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-28"
+    },
+    "deb:26-11713": {
+      "court": "deb",
+      "case_no": "26-11713",
+      "name": "FitLab Fund I LP",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203156",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-28"
+    },
+    "deb:26-11712": {
+      "court": "deb",
+      "case_no": "26-11712",
+      "name": "Weight X, Inc.",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203155",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-28"
+    },
+    "deb:26-11711": {
+      "court": "deb",
+      "case_no": "26-11711",
+      "name": "FL Merch LLC",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203154",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-28"
+    },
+    "deb:26-11710": {
+      "court": "deb",
+      "case_no": "26-11710",
+      "name": "FitLab, LLC",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203153",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-28"
     }
   },
   "enrich_log": {}
