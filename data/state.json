@@ -203,7 +203,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501659",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-28"
     },
     "njb:26-21541": {
       "court": "njb",
@@ -1342,6 +1342,40 @@
       "name": "FitLab, LLC",
       "first_seen": "2026-10-28",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203153",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-28"
+    },
+    "nysb:26-12197": {
+      "court": "nysb",
+      "case_no": "26-12197",
+      "name": "Fleming Intermediate Holdings LLC (In Official Liq and Charles Thresh",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337280",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-28"
+    },
+    "nysb:26-12561": {
+      "court": "nysb",
+      "case_no": "26-12561",
+      "name": "Jaguar Holdings LLC (In Liquidation) and Charles Thresh",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337977",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-10-28"
+    },
+    "njb:26-22202": {
+      "court": "njb",
+      "case_no": "26-22202",
+      "name": "Lindell Disposal, LLC",
+      "first_seen": "2026-10-28",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149128",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-28"
