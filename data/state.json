@@ -102,7 +102,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-21388": {
       "court": "njb",
@@ -112,7 +112,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148251",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-10332": {
       "court": "deb",
@@ -203,7 +203,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501659",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-21541": {
       "court": "njb",
@@ -238,7 +238,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-21577": {
       "court": "njb",
@@ -267,7 +267,7 @@
       "first_seen": "2026-10-14",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148519",
       "signals": [],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-10-22"
     },
     "njb:26-21649": {
@@ -279,7 +279,7 @@
       "signals": [
         "first_day"
       ],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-10-27"
     },
     "txsb:26-90816": {
@@ -291,7 +291,7 @@
       "signals": [
         "joint_admin"
       ],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-10-17"
     },
     "txsb:26-90815": {
@@ -303,7 +303,7 @@
       "signals": [
         "joint_admin"
       ],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-10-17"
     },
     "txsb:26-90814": {
@@ -361,7 +361,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501846",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-23028": {
       "court": "nysb",
@@ -401,7 +401,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148726",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-23046": {
       "court": "nysb",
@@ -560,7 +560,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-21913": {
       "court": "njb",
@@ -590,7 +590,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148840",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-36122": {
       "court": "nysb",
@@ -622,7 +622,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "txsb:26-37946": {
       "court": "txsb",
@@ -662,7 +662,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148950",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "txsb:26-90824": {
       "court": "txsb",
@@ -782,7 +782,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-12527": {
       "court": "nysb",
@@ -794,7 +794,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-12526": {
       "court": "nysb",
@@ -806,7 +806,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "txsb:26-50168": {
       "court": "txsb",
@@ -828,7 +828,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "txsb:26-37989": {
       "court": "txsb",
@@ -838,7 +838,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502134",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11339": {
       "court": "deb",
@@ -886,7 +886,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11333": {
       "court": "deb",
@@ -982,7 +982,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "txsb:26-37994": {
       "court": "txsb",
@@ -992,7 +992,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502144",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11687": {
       "court": "deb",
@@ -1000,9 +1000,11 @@
       "name": "FL Xtreme LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203111",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11686": {
       "court": "deb",
@@ -1010,9 +1012,11 @@
       "name": "FL Studios LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203110",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11685": {
       "court": "deb",
@@ -1020,9 +1024,11 @@
       "name": "FL Studio Partners LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203109",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11684": {
       "court": "deb",
@@ -1030,9 +1036,11 @@
       "name": "FL Events LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203108",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11683": {
       "court": "deb",
@@ -1040,9 +1048,11 @@
       "name": "FL Digital LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203107",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11682": {
       "court": "deb",
@@ -1050,9 +1060,11 @@
       "name": "Electric Visual Evolution LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203106",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11681": {
       "court": "deb",
@@ -1060,9 +1072,11 @@
       "name": "FitLab, Inc.",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203105",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11700": {
       "court": "deb",
@@ -1070,9 +1084,11 @@
       "name": "MHRC UES LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203124",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11699": {
       "court": "deb",
@@ -1080,9 +1096,11 @@
       "name": "Sauma, LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203123",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11698": {
       "court": "deb",
@@ -1090,9 +1108,11 @@
       "name": "Yoga Vida LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203122",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11697": {
       "court": "deb",
@@ -1100,9 +1120,11 @@
       "name": "Y7 Studios LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203121",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11696": {
       "court": "deb",
@@ -1110,9 +1132,11 @@
       "name": "Y7 Management LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203120",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11695": {
       "court": "deb",
@@ -1120,9 +1144,11 @@
       "name": "Y7 Holdings LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203119",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11694": {
       "court": "deb",
@@ -1130,9 +1156,11 @@
       "name": "XPT Life LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203118",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11693": {
       "court": "deb",
@@ -1140,9 +1168,11 @@
       "name": "RPM Fitness Inc.",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203117",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11692": {
       "court": "deb",
@@ -1150,9 +1180,11 @@
       "name": "Ragnar Holdings LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203116",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11691": {
       "court": "deb",
@@ -1160,9 +1192,11 @@
       "name": "Ragnar Events LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203115",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11690": {
       "court": "deb",
@@ -1170,9 +1204,11 @@
       "name": "Novo Fitness Inc.",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203114",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11689": {
       "court": "deb",
@@ -1180,9 +1216,11 @@
       "name": "Mile High Run Club, LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203113",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11688": {
       "court": "deb",
@@ -1190,9 +1228,11 @@
       "name": "Mile High Run Club Studio 2, LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203112",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11704": {
       "court": "deb",
@@ -1200,9 +1240,11 @@
       "name": "MHRC Management Inc.",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203128",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11703": {
       "court": "deb",
@@ -1210,9 +1252,11 @@
       "name": "FL Victory LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203127",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11702": {
       "court": "deb",
@@ -1220,9 +1264,11 @@
       "name": "FitLab Fund Founders LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203126",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11701": {
       "court": "deb",
@@ -1230,9 +1276,11 @@
       "name": "FitLab Fund Management LLC",
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203125",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-22136": {
       "court": "njb",
@@ -1242,7 +1290,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149057",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-22152": {
       "court": "njb",
@@ -1252,7 +1300,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149073",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-22150": {
       "court": "njb",
@@ -1272,7 +1320,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502219",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-11312": {
       "court": "njb",
@@ -1284,7 +1332,7 @@
         "claims_agent"
       ],
       "status": "queued",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11715": {
       "court": "deb",
@@ -1292,9 +1340,11 @@
       "name": "LifeCore Fitness, LLC",
       "first_seen": "2026-10-28",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203158",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11714": {
       "court": "deb",
@@ -1302,9 +1352,11 @@
       "name": "FitLab Fund General Partner, LLC",
       "first_seen": "2026-10-28",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203157",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11713": {
       "court": "deb",
@@ -1312,9 +1364,11 @@
       "name": "FitLab Fund I LP",
       "first_seen": "2026-10-28",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203156",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11712": {
       "court": "deb",
@@ -1322,9 +1376,11 @@
       "name": "Weight X, Inc.",
       "first_seen": "2026-10-28",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203155",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11711": {
       "court": "deb",
@@ -1332,9 +1388,11 @@
       "name": "FL Merch LLC",
       "first_seen": "2026-10-28",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203154",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11710": {
       "court": "deb",
@@ -1342,9 +1400,11 @@
       "name": "FitLab, LLC",
       "first_seen": "2026-10-28",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203153",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-12197": {
       "court": "nysb",
@@ -1356,7 +1416,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-12561": {
       "court": "nysb",
@@ -1368,7 +1428,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-22202": {
       "court": "njb",
@@ -1378,7 +1438,17 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149128",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
+    },
+    "txsb:26-38115": {
+      "court": "txsb",
+      "case_no": "26-38115",
+      "name": "Ayson Law, PLLC",
+      "first_seen": "2026-10-29",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502304",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-29"
     }
   },
   "enrich_log": {}
