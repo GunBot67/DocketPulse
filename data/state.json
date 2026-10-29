@@ -280,7 +280,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-29"
     },
     "txsb:26-90816": {
       "court": "txsb",
@@ -411,7 +411,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337833",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-12188": {
       "court": "nysb",
@@ -570,7 +570,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148829",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-23052": {
       "court": "nysb",
@@ -580,7 +580,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337860",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "njb:26-21924": {
       "court": "njb",
