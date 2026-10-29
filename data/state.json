@@ -32,7 +32,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-12407": {
       "court": "nysb",
@@ -44,7 +44,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11523": {
       "court": "deb",
@@ -213,7 +213,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148407",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-29"
     },
     "txsb:26-37173": {
       "court": "txsb",
@@ -1446,6 +1446,16 @@
       "name": "Ayson Law, PLLC",
       "first_seen": "2026-10-29",
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502304",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-29"
+    },
+    "nysb:26-36146": {
+      "court": "nysb",
+      "case_no": "26-36146",
+      "name": "Woolley Excavating & Site Development, Inc.",
+      "first_seen": "2026-10-29",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337993",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-29"
