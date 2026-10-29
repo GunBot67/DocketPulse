@@ -56,7 +56,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-29"
     },
     "deb:26-11522": {
       "court": "deb",
@@ -327,7 +327,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337757",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-20"
+      "last_seen": "2026-10-29"
     },
     "nysb:26-22837": {
       "court": "nysb",
@@ -1456,6 +1456,16 @@
       "name": "Woolley Excavating & Site Development, Inc.",
       "first_seen": "2026-10-29",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337993",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-29"
+    },
+    "njb:26-22270": {
+      "court": "njb",
+      "case_no": "26-22270",
+      "name": "Sunrise Pointe at Bordentown LLC",
+      "first_seen": "2026-10-29",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149197",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-29"
