@@ -660,7 +660,9 @@
       "name": "Hendrick Francis Lee",
       "first_seen": "2026-10-23",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148950",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-10-30"
     },
@@ -886,7 +888,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "deb:26-11333": {
       "court": "deb",
@@ -982,7 +984,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "txsb:26-37994": {
       "court": "txsb",
