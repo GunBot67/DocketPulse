@@ -361,7 +361,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501846",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "nysb:26-23028": {
       "court": "nysb",
@@ -816,7 +816,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502132",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-30"
     },
     "njb:26-22065": {
       "court": "njb",
