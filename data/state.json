@@ -183,7 +183,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-10-28"
+      "last_seen": "2026-10-30"
     },
     "njb:26-21480": {
       "court": "njb",
@@ -1334,7 +1334,7 @@
         "claims_agent"
       ],
       "status": "queued",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "deb:26-11715": {
       "court": "deb",
@@ -1468,6 +1468,16 @@
       "name": "Sunrise Pointe at Bordentown LLC",
       "first_seen": "2026-10-29",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149197",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-10-30"
+    },
+    "txsb:26-38234": {
+      "court": "txsb",
+      "case_no": "26-38234",
+      "name": "Baker Street Town Square, LLC",
+      "first_seen": "2026-10-30",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502449",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-30"
