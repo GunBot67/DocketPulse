@@ -784,7 +784,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-02"
     },
     "nysb:26-12527": {
       "court": "nysb",
@@ -1292,7 +1292,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149057",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-02"
     },
     "njb:26-22152": {
       "court": "njb",
@@ -1302,7 +1302,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149073",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-02"
     },
     "njb:26-22150": {
       "court": "njb",
@@ -1470,7 +1470,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149197",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-02"
     },
     "txsb:26-38234": {
       "court": "txsb",
@@ -1494,6 +1494,68 @@
         "first_day"
       ],
       "status": "queued",
+      "last_seen": "2026-11-02"
+    },
+    "deb:26-11749": {
+      "court": "deb",
+      "case_no": "26-11749",
+      "name": "Cerca Trova Restaurant Group Holdings, Inc.",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203300",
+      "signals": [
+        "claims_agent",
+        "first_day",
+        "joint_admin"
+      ],
+      "status": "queued",
+      "last_seen": "2026-11-02"
+    },
+    "deb:26-11753": {
+      "court": "deb",
+      "case_no": "26-11753",
+      "name": "Out West Restaurant Group, Inc.",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203304",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-02"
+    },
+    "deb:26-11752": {
+      "court": "deb",
+      "case_no": "26-11752",
+      "name": "Cerca Trova Steakhouse, L.P.",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203303",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-02"
+    },
+    "deb:26-11751": {
+      "court": "deb",
+      "case_no": "26-11751",
+      "name": "Cerca Trova Steakhouse, Inc.",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203302",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-02"
+    },
+    "deb:26-11750": {
+      "court": "deb",
+      "case_no": "26-11750",
+      "name": "Cerca Trova Southwest Restaurant Group LLC",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203301",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
       "last_seen": "2026-11-02"
     }
   },
