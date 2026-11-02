@@ -1605,6 +1605,26 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-02"
+    },
+    "deb:26-11762": {
+      "court": "deb",
+      "case_no": "26-11762",
+      "name": "Ragnar RTB, LLC",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203314",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-02"
+    },
+    "njb:26-22459": {
+      "court": "njb",
+      "case_no": "26-22459",
+      "name": "West Shore Holdings LLC",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149440",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-02"
     }
   },
   "enrich_log": {}
