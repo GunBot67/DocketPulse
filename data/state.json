@@ -1481,6 +1481,20 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-10-31"
+    },
+    "deb:26-11748": {
+      "court": "deb",
+      "case_no": "26-11748",
+      "name": "FuturHealth, Inc.",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203299",
+      "signals": [
+        "claims_agent",
+        "dip",
+        "first_day"
+      ],
+      "status": "queued",
+      "last_seen": "2026-11-02"
     }
   },
   "enrich_log": {}
