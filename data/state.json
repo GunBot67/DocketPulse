@@ -112,7 +112,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148251",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-02"
     },
     "deb:26-10332": {
       "court": "deb",
@@ -193,7 +193,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148344",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-02"
     },
     "txsb:26-37616": {
       "court": "txsb",
@@ -411,7 +411,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337833",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-11-02"
     },
     "nysb:26-12188": {
       "court": "nysb",
@@ -443,7 +443,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148791",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-11-02"
     },
     "txsb:26-37869": {
       "court": "txsb",
@@ -463,7 +463,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148811",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-11-02"
     },
     "nysb:26-12495": {
       "court": "nysb",
@@ -664,7 +664,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-02"
     },
     "txsb:26-90824": {
       "court": "txsb",
@@ -1553,6 +1553,31 @@
       "name": "Cerca Trova Southwest Restaurant Group LLC",
       "first_seen": "2026-11-02",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203301",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-02"
+    },
+    "txsb:26-90827": {
+      "court": "txsb",
+      "case_no": "26-90827",
+      "name": "Karyopharm Therapeutics Inc.",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502537",
+      "signals": [
+        "complex_case",
+        "joint_admin"
+      ],
+      "status": "queued",
+      "last_seen": "2026-11-02"
+    },
+    "txsb:26-90826": {
+      "court": "txsb",
+      "case_no": "26-90826",
+      "name": "KPT Texas LLC",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502536",
       "signals": [
         "joint_admin"
       ],
