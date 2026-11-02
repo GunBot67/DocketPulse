@@ -984,7 +984,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-02"
     },
     "txsb:26-37994": {
       "court": "txsb",
@@ -1438,7 +1438,9 @@
       "name": "Lindell Disposal, LLC",
       "first_seen": "2026-10-28",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149128",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-11-02"
     },
@@ -1480,7 +1482,7 @@
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?502449",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-02"
     },
     "deb:26-11748": {
       "court": "deb",
@@ -1581,6 +1583,16 @@
       "signals": [
         "joint_admin"
       ],
+      "status": "watching",
+      "last_seen": "2026-11-02"
+    },
+    "nysb:26-12600": {
+      "court": "nysb",
+      "case_no": "26-12600",
+      "name": "Tracie Martyn Inc.",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338057",
+      "signals": [],
       "status": "watching",
       "last_seen": "2026-11-02"
     }
