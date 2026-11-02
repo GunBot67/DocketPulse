@@ -20,7 +20,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-11-02"
     },
     "nysb:26-12408": {
       "court": "nysb",
@@ -423,7 +423,7 @@
         "dip"
       ],
       "status": "watching",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-02"
     },
     "njb:26-21855": {
       "court": "njb",
@@ -1430,7 +1430,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-02"
     },
     "njb:26-22202": {
       "court": "njb",
@@ -1592,6 +1592,16 @@
       "name": "Tracie Martyn Inc.",
       "first_seen": "2026-11-02",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338057",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-02"
+    },
+    "nysb:26-12602": {
+      "court": "nysb",
+      "case_no": "26-12602",
+      "name": "Resurrection Power & Living Bread Ministries Inter",
+      "first_seen": "2026-11-02",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338062",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-02"
