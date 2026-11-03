@@ -1636,6 +1636,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-03"
+    },
+    "njb:26-22497": {
+      "court": "njb",
+      "case_no": "26-22497",
+      "name": "Solid State Inc",
+      "first_seen": "2026-11-03",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149478",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-03"
     }
   },
   "enrich_log": {}
