@@ -1625,6 +1625,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-03"
+    },
+    "nysb:26-36166": {
+      "court": "nysb",
+      "case_no": "26-36166",
+      "name": "Ashraf Medical Group PLLC",
+      "first_seen": "2026-11-03",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338070",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-03"
     }
   },
   "enrich_log": {}
