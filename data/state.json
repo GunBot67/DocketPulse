@@ -1075,9 +1075,10 @@
       "first_seen": "2026-10-27",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203105",
       "signals": [
+        "claims_agent",
         "joint_admin"
       ],
-      "status": "watching",
+      "status": "queued",
       "last_seen": "2026-11-03"
     },
     "deb:26-11700": {
