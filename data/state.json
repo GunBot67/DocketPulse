@@ -92,7 +92,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -170,7 +170,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337672",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-11-03"
     },
     "deb:26-11589": {
       "court": "deb",
@@ -238,7 +238,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-03"
     },
     "njb:26-21577": {
       "court": "njb",
@@ -1643,6 +1643,16 @@
       "name": "Solid State Inc",
       "first_seen": "2026-11-03",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149478",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-03"
+    },
+    "njb:26-22505": {
+      "court": "njb",
+      "case_no": "26-22505",
+      "name": "Wesley K. Pandy",
+      "first_seen": "2026-11-03",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149486",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-03"
