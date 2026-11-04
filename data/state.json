@@ -20,7 +20,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "nysb:26-12408": {
       "court": "nysb",
@@ -92,7 +92,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -170,7 +170,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337672",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11589": {
       "court": "deb",
@@ -183,7 +183,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-21480": {
       "court": "njb",
@@ -238,7 +238,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-21577": {
       "court": "njb",
@@ -268,7 +268,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148519",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-21649": {
       "court": "njb",
@@ -401,7 +401,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148726",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "nysb:26-23046": {
       "court": "nysb",
@@ -410,7 +410,7 @@
       "first_seen": "2026-10-20",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337833",
       "signals": [],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-11-03"
     },
     "nysb:26-12188": {
@@ -422,8 +422,8 @@
       "signals": [
         "dip"
       ],
-      "status": "watching",
-      "last_seen": "2026-11-03"
+      "status": "expired",
+      "last_seen": "2026-11-04"
     },
     "njb:26-21855": {
       "court": "njb",
@@ -432,7 +432,7 @@
       "first_seen": "2026-10-20",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148770",
       "signals": [],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-11-03"
     },
     "njb:26-21876": {
@@ -442,7 +442,7 @@
       "first_seen": "2026-10-20",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148791",
       "signals": [],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-11-03"
     },
     "txsb:26-37869": {
@@ -452,7 +452,7 @@
       "first_seen": "2026-10-20",
       "link": "https://ecf.txsb.uscourts.gov/cgi-bin/DktRpt.pl?501976",
       "signals": [],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-11-02"
     },
     "njb:26-21895": {
@@ -473,7 +473,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337856",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11649": {
       "court": "deb",
@@ -622,7 +622,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "txsb:26-37946": {
       "court": "txsb",
@@ -984,7 +984,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "txsb:26-37994": {
       "court": "txsb",
@@ -1006,7 +1006,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11686": {
       "court": "deb",
@@ -1018,7 +1018,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11685": {
       "court": "deb",
@@ -1030,7 +1030,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11684": {
       "court": "deb",
@@ -1042,7 +1042,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11683": {
       "court": "deb",
@@ -1054,7 +1054,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11682": {
       "court": "deb",
@@ -1066,7 +1066,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11681": {
       "court": "deb",
@@ -1079,7 +1079,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11700": {
       "court": "deb",
@@ -1091,7 +1091,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11699": {
       "court": "deb",
@@ -1103,7 +1103,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11698": {
       "court": "deb",
@@ -1115,7 +1115,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11697": {
       "court": "deb",
@@ -1127,7 +1127,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11696": {
       "court": "deb",
@@ -1139,7 +1139,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11695": {
       "court": "deb",
@@ -1151,7 +1151,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11694": {
       "court": "deb",
@@ -1163,7 +1163,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11693": {
       "court": "deb",
@@ -1175,7 +1175,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11692": {
       "court": "deb",
@@ -1187,7 +1187,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11691": {
       "court": "deb",
@@ -1199,7 +1199,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11690": {
       "court": "deb",
@@ -1211,7 +1211,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11689": {
       "court": "deb",
@@ -1223,7 +1223,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11688": {
       "court": "deb",
@@ -1235,7 +1235,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11704": {
       "court": "deb",
@@ -1247,7 +1247,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11703": {
       "court": "deb",
@@ -1259,7 +1259,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11702": {
       "court": "deb",
@@ -1271,7 +1271,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11701": {
       "court": "deb",
@@ -1283,7 +1283,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-22136": {
       "court": "njb",
@@ -1347,7 +1347,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11714": {
       "court": "deb",
@@ -1359,7 +1359,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11713": {
       "court": "deb",
@@ -1371,7 +1371,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11712": {
       "court": "deb",
@@ -1383,7 +1383,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11711": {
       "court": "deb",
@@ -1395,7 +1395,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11710": {
       "court": "deb",
@@ -1407,7 +1407,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "nysb:26-12197": {
       "court": "nysb",
@@ -1443,7 +1443,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "txsb:26-38115": {
       "court": "txsb",
@@ -1497,7 +1497,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11749": {
       "court": "deb",
@@ -1512,7 +1512,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11753": {
       "court": "deb",
@@ -1595,7 +1595,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338057",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "nysb:26-12602": {
       "court": "nysb",
@@ -1605,7 +1605,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338062",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11762": {
       "court": "deb",
@@ -1615,7 +1615,7 @@
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203314",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-22459": {
       "court": "njb",
@@ -1625,7 +1625,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149440",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "nysb:26-36166": {
       "court": "nysb",
@@ -1635,7 +1635,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338070",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-22497": {
       "court": "njb",
@@ -1645,7 +1645,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149478",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-22505": {
       "court": "njb",
@@ -1655,7 +1655,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149486",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11765": {
       "court": "deb",
@@ -1664,10 +1664,11 @@
       "first_seen": "2026-11-03",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203327",
       "signals": [
+        "dip",
         "first_day"
       ],
-      "status": "watching",
-      "last_seen": "2026-11-03"
+      "status": "queued",
+      "last_seen": "2026-11-04"
     }
   },
   "enrich_log": {}
