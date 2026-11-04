@@ -1076,6 +1076,8 @@
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203105",
       "signals": [
         "claims_agent",
+        "dip",
+        "first_day",
         "joint_admin"
       ],
       "status": "queued",
