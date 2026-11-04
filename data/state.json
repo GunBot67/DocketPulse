@@ -112,7 +112,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148251",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-10332": {
       "court": "deb",
@@ -1526,7 +1526,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11752": {
       "court": "deb",
@@ -1538,7 +1538,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11751": {
       "court": "deb",
@@ -1550,7 +1550,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11750": {
       "court": "deb",
@@ -1562,7 +1562,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "txsb:26-90827": {
       "court": "txsb",
@@ -1670,6 +1670,16 @@
         "first_day"
       ],
       "status": "queued",
+      "last_seen": "2026-11-04"
+    },
+    "njb:26-22537": {
+      "court": "njb",
+      "case_no": "26-22537",
+      "name": "Sterling Creek Estates LLC",
+      "first_seen": "2026-11-04",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149519",
+      "signals": [],
+      "status": "watching",
       "last_seen": "2026-11-04"
     }
   },
