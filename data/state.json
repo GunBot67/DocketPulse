@@ -213,7 +213,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148407",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-04"
     },
     "txsb:26-37173": {
       "court": "txsb",
@@ -381,7 +381,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337786",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-04"
     },
     "nysb:26-23033": {
       "court": "nysb",
@@ -411,7 +411,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337833",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "nysb:26-12188": {
       "court": "nysb",
@@ -431,9 +431,11 @@
       "name": "1065 Amboy Avenue, LLC",
       "first_seen": "2026-10-20",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148770",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "njb:26-21876": {
       "court": "njb",
@@ -610,7 +612,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337873",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-04"
     },
     "deb:26-11505": {
       "court": "deb",
@@ -796,7 +798,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-11-04"
     },
     "nysb:26-12526": {
       "court": "nysb",
@@ -808,7 +810,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-11-04"
     },
     "txsb:26-50168": {
       "court": "txsb",
@@ -1678,6 +1680,26 @@
       "name": "Sterling Creek Estates LLC",
       "first_seen": "2026-11-04",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149519",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-04"
+    },
+    "nysb:26-23110": {
+      "court": "nysb",
+      "case_no": "26-23110",
+      "name": "JLS Mechanical, LLC",
+      "first_seen": "2026-11-04",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338097",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-04"
+    },
+    "nysb:26-23108": {
+      "court": "nysb",
+      "case_no": "26-23108",
+      "name": "38 CRI Properties LLC",
+      "first_seen": "2026-11-04",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338091",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-04"
