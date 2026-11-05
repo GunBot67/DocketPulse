@@ -44,7 +44,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-05"
     },
     "deb:26-11523": {
       "court": "deb",
@@ -102,7 +102,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-05"
     },
     "njb:26-21388": {
       "court": "njb",
@@ -391,7 +391,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337792",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-05"
     },
     "njb:26-21811": {
       "court": "njb",
@@ -582,7 +582,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337860",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-05"
     },
     "njb:26-21924": {
       "court": "njb",
@@ -592,7 +592,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148840",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-05"
     },
     "nysb:26-36122": {
       "court": "nysb",
@@ -1339,7 +1339,7 @@
         "claims_agent"
       ],
       "status": "queued",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-05"
     },
     "deb:26-11715": {
       "court": "deb",
@@ -1597,7 +1597,9 @@
       "name": "Tracie Martyn Inc.",
       "first_seen": "2026-11-02",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338057",
-      "signals": [],
+      "signals": [
+        "dip"
+      ],
       "status": "watching",
       "last_seen": "2026-11-05"
     },
