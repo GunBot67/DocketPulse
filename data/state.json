@@ -92,7 +92,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-05"
+      "last_seen": "2026-11-06"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -1661,7 +1661,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149486",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-05"
+      "last_seen": "2026-11-06"
     },
     "deb:26-11765": {
       "court": "deb",
@@ -1704,7 +1704,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338091",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-05"
+      "last_seen": "2026-11-06"
     },
     "deb:26-11772": {
       "court": "deb",
@@ -1712,6 +1712,120 @@
       "name": "NewSight Reality, Inc.",
       "first_seen": "2026-11-05",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203335",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11777": {
+      "court": "deb",
+      "case_no": "26-11777",
+      "name": "Tapestry Management Services, Inc.",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203340",
+      "signals": [
+        "claims_agent",
+        "first_day",
+        "joint_admin"
+      ],
+      "status": "queued",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11787": {
+      "court": "deb",
+      "case_no": "26-11787",
+      "name": "Rosewood Hills Healthcare PC",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203350",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11786": {
+      "court": "deb",
+      "case_no": "26-11786",
+      "name": "Topaz Bay Senior Health PC",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203349",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11785": {
+      "court": "deb",
+      "case_no": "26-11785",
+      "name": "Tapestry TeleHealth PLLC",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203348",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11784": {
+      "court": "deb",
+      "case_no": "26-11784",
+      "name": "Tapestry Medicine PLLC",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203347",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11783": {
+      "court": "deb",
+      "case_no": "26-11783",
+      "name": "Tapestry Medical, P.C.",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203346",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11782": {
+      "court": "deb",
+      "case_no": "26-11782",
+      "name": "Tapestry Health PLLC",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203345",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11781": {
+      "court": "deb",
+      "case_no": "26-11781",
+      "name": "Emerald Fern Wellness PC",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203344",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11780": {
+      "court": "deb",
+      "case_no": "26-11780",
+      "name": "Chess Medicine PLLC",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203343",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11779": {
+      "court": "deb",
+      "case_no": "26-11779",
+      "name": "Chess Medical, P.C.",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203342",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-06"
+    },
+    "deb:26-11778": {
+      "court": "deb",
+      "case_no": "26-11778",
+      "name": "Tapestry Pharmacy Consulting LLC",
+      "first_seen": "2026-11-06",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203341",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-06"
