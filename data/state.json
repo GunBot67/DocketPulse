@@ -183,7 +183,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "njb:26-21480": {
       "court": "njb",
@@ -258,7 +258,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148445",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-09"
     },
     "njb:26-21651": {
       "court": "njb",
@@ -786,7 +786,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "nysb:26-12527": {
       "court": "nysb",
@@ -1694,7 +1694,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338097",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-09"
     },
     "nysb:26-23108": {
       "court": "nysb",
@@ -1704,7 +1704,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338091",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "deb:26-11772": {
       "court": "deb",
@@ -1830,6 +1830,177 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-07"
+    },
+    "njb:26-22682": {
+      "court": "njb",
+      "case_no": "26-22682",
+      "name": "The Children's Place, Inc.",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149695",
+      "signals": [
+        "claims_agent",
+        "complex_case",
+        "first_day",
+        "joint_admin"
+      ],
+      "status": "queued",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22695": {
+      "court": "njb",
+      "case_no": "26-22695",
+      "name": "The Children's Place (Barbados) Inc.",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149708",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22694": {
+      "court": "njb",
+      "case_no": "26-22694",
+      "name": "AMASKIT, LLC",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149707",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22693": {
+      "court": "njb",
+      "case_no": "26-22693",
+      "name": "TCP Brands, LLC",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149706",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22692": {
+      "court": "njb",
+      "case_no": "26-22692",
+      "name": "TCP Investment Canada II Corp.",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149705",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22691": {
+      "court": "njb",
+      "case_no": "26-22691",
+      "name": "TCP Investment Canada I Corp.",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149704",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22690": {
+      "court": "njb",
+      "case_no": "26-22690",
+      "name": "The Childrens Place (Canada), LP",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149703",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22689": {
+      "court": "njb",
+      "case_no": "26-22689",
+      "name": "TCP International Product Holdings, LLC",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149702",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22688": {
+      "court": "njb",
+      "case_no": "26-22688",
+      "name": "TCP Real Estate Holdings, LLC",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149701",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22687": {
+      "court": "njb",
+      "case_no": "26-22687",
+      "name": "TCP IH II, LLC",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149700",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22686": {
+      "court": "njb",
+      "case_no": "26-22686",
+      "name": "Thechildrensplace.com, inc.",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149699",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22685": {
+      "court": "njb",
+      "case_no": "26-22685",
+      "name": "The Children's Place Canada Holdings, Inc.",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149698",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22684": {
+      "court": "njb",
+      "case_no": "26-22684",
+      "name": "The Childrens Place International, LLC",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149697",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
+    },
+    "njb:26-22683": {
+      "court": "njb",
+      "case_no": "26-22683",
+      "name": "The Children's Place Services Company, LLC",
+      "first_seen": "2026-11-09",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149696",
+      "signals": [
+        "joint_admin"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-09"
     }
   },
   "enrich_log": {}
