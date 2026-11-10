@@ -20,7 +20,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-10"
     },
     "nysb:26-12408": {
       "court": "nysb",
@@ -92,7 +92,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-10"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -391,7 +391,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337792",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-10"
     },
     "njb:26-21811": {
       "court": "njb",
@@ -423,7 +423,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-10"
     },
     "njb:26-21855": {
       "court": "njb",
@@ -435,7 +435,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-10"
     },
     "njb:26-21876": {
       "court": "njb",
@@ -572,7 +572,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148829",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-10"
     },
     "nysb:26-23052": {
       "court": "nysb",
@@ -1339,7 +1339,7 @@
         "claims_agent"
       ],
       "status": "queued",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-10"
     },
     "deb:26-11715": {
       "court": "deb",
@@ -1423,7 +1423,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-11-10"
     },
     "nysb:26-12561": {
       "court": "nysb",
@@ -1435,7 +1435,7 @@
         "joint_admin"
       ],
       "status": "watching",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-10"
     },
     "njb:26-22202": {
       "court": "njb",
@@ -2018,6 +2018,16 @@
       "name": "Karen Theresa Harrison Carter",
       "first_seen": "2026-11-10",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149738",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-10"
+    },
+    "njb:26-22761": {
+      "court": "njb",
+      "case_no": "26-22761",
+      "name": "HSE Inc",
+      "first_seen": "2026-11-10",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149799",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-10"
