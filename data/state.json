@@ -102,7 +102,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "njb:26-21388": {
       "court": "njb",
@@ -183,7 +183,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "njb:26-21480": {
       "court": "njb",
@@ -1447,7 +1447,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-12"
     },
     "txsb:26-38115": {
       "court": "txsb",
@@ -1467,7 +1467,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337993",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "njb:26-22270": {
       "court": "njb",
@@ -1601,7 +1601,7 @@
         "dip"
       ],
       "status": "watching",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "nysb:26-12602": {
       "court": "nysb",
@@ -1629,9 +1629,11 @@
       "name": "West Shore Holdings LLC",
       "first_seen": "2026-11-02",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149440",
-      "signals": [],
+      "signals": [
+        "joint_admin"
+      ],
       "status": "watching",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-12"
     },
     "nysb:26-36166": {
       "court": "nysb",
@@ -1674,7 +1676,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "njb:26-22537": {
       "court": "njb",
