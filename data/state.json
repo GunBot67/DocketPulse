@@ -238,7 +238,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "njb:26-21577": {
       "court": "njb",
@@ -572,7 +572,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148829",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "nysb:26-23052": {
       "court": "nysb",
@@ -1846,7 +1846,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "njb:26-22695": {
       "court": "njb",
@@ -2054,7 +2054,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338191",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-15"
     },
     "deb:26-11169": {
       "court": "deb",
