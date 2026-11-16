@@ -32,7 +32,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-16"
     },
     "nysb:26-12407": {
       "court": "nysb",
@@ -44,7 +44,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-16"
     },
     "deb:26-11523": {
       "court": "deb",
@@ -112,7 +112,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148251",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-16"
     },
     "deb:26-10332": {
       "court": "deb",
@@ -238,7 +238,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "njb:26-21577": {
       "court": "njb",
@@ -327,7 +327,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337757",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-16"
     },
     "nysb:26-22837": {
       "court": "nysb",
@@ -391,7 +391,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337792",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-16"
     },
     "njb:26-21811": {
       "court": "njb",
@@ -423,7 +423,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "njb:26-21855": {
       "court": "njb",
@@ -624,7 +624,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-16"
     },
     "txsb:26-37946": {
       "court": "txsb",
@@ -666,7 +666,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-16"
     },
     "txsb:26-90824": {
       "court": "txsb",
@@ -986,7 +986,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-16"
     },
     "txsb:26-37994": {
       "court": "txsb",
@@ -1083,7 +1083,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-16"
     },
     "deb:26-11700": {
       "court": "deb",
@@ -2066,7 +2066,7 @@
         "dip"
       ],
       "status": "watching",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "nysb:26-36209": {
       "court": "nysb",
@@ -2076,7 +2076,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338227",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-16"
     },
     "njb:26-22846": {
       "court": "njb",
@@ -2098,7 +2098,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338258",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "nysb:26-23143": {
       "court": "nysb",
@@ -2118,7 +2118,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338246",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-16"
     },
     "nysb:26-12690": {
       "court": "nysb",
@@ -2128,7 +2128,27 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338261",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
+    },
+    "nysb:26-23150": {
+      "court": "nysb",
+      "case_no": "26-23150",
+      "name": "S & E Homes 812 LLC",
+      "first_seen": "2026-11-16",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338276",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-16"
+    },
+    "nysb:26-23148": {
+      "court": "nysb",
+      "case_no": "26-23148",
+      "name": "Tykarah Infant and Toddler",
+      "first_seen": "2026-11-16",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338268",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-16"
     }
   },
   "enrich_log": {}
