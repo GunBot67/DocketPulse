@@ -20,7 +20,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-17"
     },
     "nysb:26-12408": {
       "court": "nysb",
@@ -183,7 +183,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-17"
     },
     "njb:26-21480": {
       "court": "njb",
@@ -213,7 +213,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148407",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-17"
     },
     "txsb:26-37173": {
       "court": "txsb",
@@ -401,7 +401,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148726",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-17"
     },
     "nysb:26-23046": {
       "court": "nysb",
@@ -475,7 +475,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337856",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-17"
     },
     "deb:26-11649": {
       "court": "deb",
@@ -602,7 +602,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337870",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-17"
     },
     "nysb:26-36123": {
       "court": "nysb",
@@ -612,7 +612,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337873",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-17"
     },
     "deb:26-11505": {
       "court": "deb",
@@ -1339,7 +1339,7 @@
         "claims_agent"
       ],
       "status": "queued",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-17"
     },
     "deb:26-11715": {
       "court": "deb",
@@ -1467,7 +1467,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337993",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-17"
     },
     "njb:26-22270": {
       "court": "njb",
@@ -1714,9 +1714,11 @@
       "name": "NewSight Reality, Inc.",
       "first_seen": "2026-11-05",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203335",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-17"
     },
     "deb:26-11777": {
       "court": "deb",
@@ -2156,6 +2158,26 @@
       "name": "9 Jude Drive Equities Proprietary LLC",
       "first_seen": "2026-11-17",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338289",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-17"
+    },
+    "nysb:26-23154": {
+      "court": "nysb",
+      "case_no": "26-23154",
+      "name": "German Group Inc",
+      "first_seen": "2026-11-17",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338294",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-17"
+    },
+    "njb:26-22988": {
+      "court": "njb",
+      "case_no": "26-22988",
+      "name": "Seals Homes LLC",
+      "first_seen": "2026-11-17",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150039",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-17"
