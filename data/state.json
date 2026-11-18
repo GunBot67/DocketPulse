@@ -102,7 +102,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-18"
     },
     "njb:26-21388": {
       "court": "njb",
@@ -2090,7 +2090,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-18"
     },
     "nysb:26-36217": {
       "court": "nysb",
@@ -2198,6 +2198,16 @@
       "name": "Lycan Capital Fund II LLC",
       "first_seen": "2026-11-18",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338321",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-18"
+    },
+    "njb:26-23058": {
+      "court": "njb",
+      "case_no": "26-23058",
+      "name": "Wynn Global Logistics, Inc.",
+      "first_seen": "2026-11-18",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150110",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-18"
