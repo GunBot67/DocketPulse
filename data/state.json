@@ -92,7 +92,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21382": {
       "court": "njb",
@@ -102,7 +102,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148245",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21388": {
       "court": "njb",
@@ -170,7 +170,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337672",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "deb:26-11589": {
       "court": "deb",
@@ -238,7 +238,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21577": {
       "court": "njb",
@@ -268,7 +268,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148519",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21649": {
       "court": "njb",
@@ -327,7 +327,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337757",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-22837": {
       "court": "nysb",
@@ -391,7 +391,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337792",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21811": {
       "court": "njb",
@@ -423,7 +423,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21855": {
       "court": "njb",
@@ -435,7 +435,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21876": {
       "court": "njb",
@@ -562,7 +562,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21913": {
       "court": "njb",
@@ -572,7 +572,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148829",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-23052": {
       "court": "nysb",
@@ -602,7 +602,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337870",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-36123": {
       "court": "nysb",
@@ -624,7 +624,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "txsb:26-37946": {
       "court": "txsb",
@@ -666,7 +666,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "txsb:26-90824": {
       "court": "txsb",
@@ -1307,7 +1307,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149073",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "njb:26-22150": {
       "court": "njb",
@@ -1467,7 +1467,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337993",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-22270": {
       "court": "njb",
@@ -1516,7 +1516,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "deb:26-11753": {
       "court": "deb",
@@ -1676,7 +1676,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-22537": {
       "court": "njb",
@@ -1685,7 +1685,7 @@
       "first_seen": "2026-11-04",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149519",
       "signals": [],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-11-14"
     },
     "nysb:26-23110": {
@@ -1695,7 +1695,7 @@
       "first_seen": "2026-11-04",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338097",
       "signals": [],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-11-17"
     },
     "nysb:26-23108": {
@@ -1705,7 +1705,7 @@
       "first_seen": "2026-11-04",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338091",
       "signals": [],
-      "status": "watching",
+      "status": "expired",
       "last_seen": "2026-11-13"
     },
     "deb:26-11772": {
@@ -1718,7 +1718,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "deb:26-11777": {
       "court": "deb",
@@ -1733,7 +1733,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "deb:26-11787": {
       "court": "deb",
@@ -1848,7 +1848,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-22695": {
       "court": "njb",
@@ -2034,7 +2034,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149799",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-11535": {
       "court": "nysb",
@@ -2056,7 +2056,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338191",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-19"
     },
     "deb:26-11169": {
       "court": "deb",
@@ -2068,7 +2068,7 @@
         "dip"
       ],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-36209": {
       "court": "nysb",
@@ -2090,7 +2090,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-36217": {
       "court": "nysb",
@@ -2130,7 +2130,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338261",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-23150": {
       "court": "nysb",
@@ -2150,7 +2150,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338268",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-36224": {
       "court": "nysb",
@@ -2180,7 +2180,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150039",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-36233": {
       "court": "nysb",
@@ -2190,7 +2190,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338322",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-23162": {
       "court": "nysb",
@@ -2200,7 +2200,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338321",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-23058": {
       "court": "njb",
@@ -2210,7 +2210,52 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150110",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
+    },
+    "deb:26-11846": {
+      "court": "deb",
+      "case_no": "26-11846",
+      "name": "Synexis LLC",
+      "first_seen": "2026-11-19",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203411",
+      "signals": [
+        "dip",
+        "first_day"
+      ],
+      "status": "queued",
+      "last_seen": "2026-11-19"
+    },
+    "deb:26-11845": {
+      "court": "deb",
+      "case_no": "26-11845",
+      "name": "My Obvi, Inc.",
+      "first_seen": "2026-11-19",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203410",
+      "signals": [
+        "first_day"
+      ],
+      "status": "watching",
+      "last_seen": "2026-11-19"
+    },
+    "nysb:26-36239": {
+      "court": "nysb",
+      "case_no": "26-36239",
+      "name": "Crow District, LLC",
+      "first_seen": "2026-11-19",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338338",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-19"
+    },
+    "nysb:26-36238": {
+      "court": "nysb",
+      "case_no": "26-36238",
+      "name": "Glenmere Pharms LLC",
+      "first_seen": "2026-11-19",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338337",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-19"
     }
   },
   "enrich_log": {}
