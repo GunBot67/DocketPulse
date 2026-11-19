@@ -183,7 +183,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-21480": {
       "court": "njb",
@@ -2078,7 +2078,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338227",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-22846": {
       "court": "njb",
@@ -2120,7 +2120,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338246",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-12690": {
       "court": "nysb",
@@ -2140,7 +2140,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338276",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-23148": {
       "court": "nysb",
@@ -2253,6 +2253,16 @@
       "name": "Glenmere Pharms LLC",
       "first_seen": "2026-11-19",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338337",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-19"
+    },
+    "deb:26-11851": {
+      "court": "deb",
+      "case_no": "26-11851",
+      "name": "Bonsai Bar, Inc.",
+      "first_seen": "2026-11-19",
+      "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203416",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-19"
