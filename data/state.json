@@ -411,7 +411,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337833",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-12188": {
       "court": "nysb",
@@ -832,7 +832,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-19"
     },
     "txsb:26-37989": {
       "court": "txsb",
@@ -1317,7 +1317,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149071",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-05"
+      "last_seen": "2026-11-19"
     },
     "txsb:26-38050": {
       "court": "txsb",
@@ -1447,7 +1447,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "txsb:26-38115": {
       "court": "txsb",
@@ -2014,7 +2014,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338167",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "njb:26-22721": {
       "court": "njb",
@@ -2110,7 +2110,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338257",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-19"
     },
     "nysb:26-23141": {
       "court": "nysb",
@@ -2263,6 +2263,36 @@
       "name": "Bonsai Bar, Inc.",
       "first_seen": "2026-11-19",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203416",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-19"
+    },
+    "nysb:26-23167": {
+      "court": "nysb",
+      "case_no": "26-23167",
+      "name": "Loughlin and Sons Construction LLC",
+      "first_seen": "2026-11-19",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338350",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-19"
+    },
+    "nysb:26-23166": {
+      "court": "nysb",
+      "case_no": "26-23166",
+      "name": "Chaim Y. Hirsch",
+      "first_seen": "2026-11-19",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338340",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-19"
+    },
+    "njb:26-23095": {
+      "court": "njb",
+      "case_no": "26-23095",
+      "name": "BY KIY LLC",
+      "first_seen": "2026-11-19",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150150",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-19"
