@@ -268,7 +268,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148519",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "njb:26-21649": {
       "court": "njb",
@@ -602,7 +602,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337870",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "nysb:26-36123": {
       "court": "nysb",
@@ -612,7 +612,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337873",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-20"
     },
     "deb:26-11505": {
       "court": "deb",
@@ -866,7 +866,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-11-20"
     },
     "deb:26-11337": {
       "court": "deb",
@@ -986,7 +986,7 @@
         "joint_admin"
       ],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-20"
     },
     "txsb:26-37994": {
       "court": "txsb",
@@ -1339,7 +1339,7 @@
         "claims_agent"
       ],
       "status": "queued",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-20"
     },
     "deb:26-11715": {
       "court": "deb",
@@ -1696,7 +1696,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338097",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-20"
     },
     "nysb:26-23108": {
       "court": "nysb",
@@ -2024,7 +2024,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149738",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-20"
     },
     "njb:26-22761": {
       "court": "njb",
@@ -2208,7 +2208,9 @@
       "name": "Wynn Global Logistics, Inc.",
       "first_seen": "2026-11-18",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150110",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-11-20"
     },
@@ -2245,7 +2247,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338338",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "nysb:26-36238": {
       "court": "nysb",
@@ -2263,7 +2265,9 @@
       "name": "Bonsai Bar, Inc.",
       "first_seen": "2026-11-19",
       "link": "https://ecf.deb.uscourts.gov/cgi-bin/DktRpt.pl?203416",
-      "signals": [],
+      "signals": [
+        "first_day"
+      ],
       "status": "watching",
       "last_seen": "2026-11-20"
     },
@@ -2313,6 +2317,36 @@
       "name": "232 Old River Edge NJ LLC",
       "first_seen": "2026-11-20",
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150199",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-20"
+    },
+    "nysb:26-12736": {
+      "court": "nysb",
+      "case_no": "26-12736",
+      "name": "Kerry Group Corp",
+      "first_seen": "2026-11-20",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338370",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-20"
+    },
+    "nysb:26-23173": {
+      "court": "nysb",
+      "case_no": "26-23173",
+      "name": "Henner Law Group, P.C.",
+      "first_seen": "2026-11-20",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338369",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-20"
+    },
+    "njb:26-23161": {
+      "court": "njb",
+      "case_no": "26-23161",
+      "name": "PPS Realty 800 George St., LLC",
+      "first_seen": "2026-11-20",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150218",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-20"
