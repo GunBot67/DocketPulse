@@ -20,7 +20,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-23"
     },
     "nysb:26-12408": {
       "court": "nysb",
@@ -183,7 +183,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "njb:26-21480": {
       "court": "njb",
@@ -238,7 +238,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "njb:26-21577": {
       "court": "njb",
@@ -423,7 +423,7 @@
         "dip"
       ],
       "status": "expired",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "njb:26-21855": {
       "court": "njb",
@@ -562,7 +562,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "njb:26-21913": {
       "court": "njb",
@@ -624,7 +624,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "txsb:26-37946": {
       "court": "txsb",
@@ -786,7 +786,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "nysb:26-12527": {
       "court": "nysb",
@@ -1083,7 +1083,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "deb:26-11700": {
       "court": "deb",
@@ -1676,7 +1676,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "njb:26-22537": {
       "court": "njb",
@@ -1733,7 +1733,7 @@
         "joint_admin"
       ],
       "status": "queued",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "deb:26-11787": {
       "court": "deb",
@@ -2068,7 +2068,7 @@
         "dip"
       ],
       "status": "watching",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "nysb:26-36209": {
       "court": "nysb",
@@ -2078,7 +2078,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338227",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "njb:26-22846": {
       "court": "njb",
@@ -2150,7 +2150,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338268",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-23"
     },
     "nysb:26-36224": {
       "court": "nysb",
@@ -2225,7 +2225,7 @@
         "first_day"
       ],
       "status": "queued",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "deb:26-11845": {
       "court": "deb",
@@ -2257,7 +2257,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338337",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "deb:26-11851": {
       "court": "deb",
@@ -2269,7 +2269,7 @@
         "first_day"
       ],
       "status": "watching",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "nysb:26-23167": {
       "court": "nysb",
@@ -2309,7 +2309,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338358",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "njb:26-23142": {
       "court": "njb",
@@ -2329,7 +2329,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338370",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "nysb:26-23173": {
       "court": "nysb",
@@ -2339,7 +2339,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338369",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "njb:26-23161": {
       "court": "njb",
@@ -2350,6 +2350,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-21"
+    },
+    "njb:26-23217": {
+      "court": "njb",
+      "case_no": "26-23217",
+      "name": "Lewisbuilt LLC",
+      "first_seen": "2026-11-23",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150277",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-23"
     }
   },
   "enrich_log": {}
