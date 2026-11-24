@@ -371,7 +371,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?337771",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-24"
     },
     "nysb:26-12467": {
       "court": "nysb",
@@ -401,7 +401,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148726",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-24"
     },
     "nysb:26-23046": {
       "court": "nysb",
@@ -435,7 +435,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-24"
     },
     "njb:26-21876": {
       "court": "njb",
@@ -592,7 +592,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1148840",
       "signals": [],
       "status": "expired",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-24"
     },
     "nysb:26-36122": {
       "court": "nysb",
@@ -832,7 +832,7 @@
         "first_day"
       ],
       "status": "expired",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-24"
     },
     "txsb:26-37989": {
       "court": "txsb",
@@ -2024,7 +2024,7 @@
       "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1149738",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-24"
     },
     "njb:26-22761": {
       "court": "njb",
@@ -2100,7 +2100,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338258",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-24"
     },
     "nysb:26-23143": {
       "court": "nysb",
@@ -2130,7 +2130,7 @@
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338261",
       "signals": [],
       "status": "watching",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-24"
     },
     "nysb:26-23150": {
       "court": "nysb",
@@ -2367,6 +2367,16 @@
       "name": "E.Z. LOR REALTY LLC",
       "first_seen": "2026-11-24",
       "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338391",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-24"
+    },
+    "njb:26-23253": {
+      "court": "njb",
+      "case_no": "26-23253",
+      "name": "CAG Restaurant LLC",
+      "first_seen": "2026-11-24",
+      "link": "https://ecf.njb.uscourts.gov/cgi-bin/DktRpt.pl?1150315",
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-24"
