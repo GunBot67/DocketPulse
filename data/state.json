@@ -2380,6 +2380,16 @@
       "signals": [],
       "status": "watching",
       "last_seen": "2026-11-25"
+    },
+    "nysb:26-12764": {
+      "court": "nysb",
+      "case_no": "26-12764",
+      "name": "Golden Billion Trust",
+      "first_seen": "2026-11-25",
+      "link": "https://ecf.nysb.uscourts.gov/cgi-bin/DktRpt.pl?338424",
+      "signals": [],
+      "status": "watching",
+      "last_seen": "2026-11-25"
     }
   },
   "enrich_log": {}
